@@ -1,0 +1,7 @@
+rm gdm.abx gdm.idx
+pdflatex gdm
+bibtex gdm
+makeindex gdm
+makeindex gdm.abx -t gdm.abg -o gdm.abd
+pdflatex gdm
+

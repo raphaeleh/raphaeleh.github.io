@@ -1,0 +1,351 @@
+\begin{theindex}
+
+  \item approximation space, \hyperpage{3--5}
+  \item Arzel\`a--Ascoli theorem, \hyperpage{115}, \hyperpage{440}, 
+		\hyperpage{449}
+    \subitem discontinuous, \hyperpage{449}
+  \item Aubin--Simon theorem, \hyperpage{107}, \hyperpage{446}
+
+  \indexspace
+
+  \item barycentric condensation, \hyperpage{202}, \hyperpage{228--230}, 
+		\hyperpage{233}, \hyperpage{240, 241}, \hyperpage{243}, 
+		\hyperpage{256}, \hyperpage{273, 274}, \hyperpage{348}, 
+		\hyperpage{365}
+  \item barycentric dual mesh, \hyperpage{271}
+  \item broken
+    \subitem gradient, \hyperpage{5}, \hyperpage{11}, \hyperpage{207}, 
+		\hyperpage{282}
+    \subitem space, \hyperpage{251}, \hyperpage{282}, \hyperpage{416}
+  \item Brouwer fixed point theorem, \hyperpage{43}, \hyperpage{82}, 
+		\hyperpage{84}, \hyperpage{88}, \hyperpage{462}
+
+  \indexspace
+
+  \item C\'ea's lemma, \hyperpage{4}
+  \item Caratheodory function, \hyperpage{41}, \hyperpage{63}, 
+		\hyperpage{81}, \hyperpage{87}, \hyperpage{118}, 
+		\hyperpage{133}, \hyperpage{465}
+  \item CeVeFE, \hyperindexformat{\see {finite volume}}{199}
+  \item coercivity
+    \subitem definition, \hyperpage{18}, \hyperpage{66}, \hyperpage{70}, 
+		\hyperpage{90}, \hyperpage{398}
+    \subitem of specific schemes, \hyperpage{304}, \hyperpage{313}, 
+		\hyperpage{330}, \hyperpage{343}, \hyperpage{358}
+  \item compactly embedded sequence, \hyperpage{444}
+  \item compactly--continuously embedded sequence, \hyperpage{445}
+  \item compactness, \hyperpage{24}
+    \subitem definition, \hyperpage{22}, \hyperpage{67}, \hyperpage{71}, 
+		\hyperpage{91}, \hyperpage{402}
+    \subitem implies coercivity, \hyperpage{23}, \hyperpage{68}, 
+		\hyperpage{72}, \hyperpage{402}
+    \subitem of specific schemes, \hyperpage{313}, \hyperpage{330}, 
+		\hyperpage{343}, \hyperpage{358}
+  \item compatible discrete operator (CDO), \hyperpage{xii}, 
+		\hyperpage{347}
+  \item condensation
+    \subitem barycentric, \hyperpage{202}, \hyperpage{228--230}, 
+		\hyperpage{233}, \hyperpage{240, 241}, \hyperpage{243}, 
+		\hyperpage{256}, \hyperpage{273, 274}, \hyperpage{348}, 
+		\hyperpage{365}
+    \subitem static, \hyperpage{230}, \hyperpage{275}, \hyperpage{353}
+  \item conforming $\Pfe _k$ LLE gradient discretisation, 
+		\hyperpage{261}
+  \item conforming method, \hyperpage{4}, \hyperpage{259}
+  \item conformity defect, \hyperpage{12}, \hyperpage{20}, 
+		\hyperpage{33, 34}
+    \subitem estimate, \hyperpage{209}, \hyperpage{213}, 
+		\hyperpage{216}, \hyperpage{267}, \hyperpage{278}, 
+		\hyperpage{286}, \hyperpage{288}, \hyperpage{312}, 
+		\hyperpage{331}, \hyperpage{343}, \hyperpage{358}, 
+		\hyperpage{384}
+  \item consistency, \hyperpage{19}, \hyperpage{38, 39}
+    \subitem \igobble , 
+		\hyperindexformat{\seealso {GD-consistency}}{24}
+  \item consistency defect, \hyperpage{33, 34}
+    \subitem estimate, \hyperpage{249}, \hyperpage{251--254}, 
+		\hyperpage{267}, \hyperpage{278}, \hyperpage{286}, 
+		\hyperpage{288}, \hyperpage{294}, \hyperpage{312}, 
+		\hyperpage{330}, \hyperpage{343}, \hyperpage{359}, 
+		\hyperpage{384}
+  \item control of a GD by a polytopal toolbox
+    \subitem definition, \hyperpage{208}, \hyperpage{213}, 
+		\hyperpage{216}
+    \subitem of specific schemes, \hyperpage{209}, \hyperpage{309}, 
+		\hyperpage{328}, \hyperpage{342}, \hyperpage{357}, 
+		\hyperpage{382}
+  \item convergence
+    \subitem in the sense of distributions, \hyperpage{463}
+    \subitem non-linear strong, \hyperpage{465}
+    \subitem space--time weak-strong, \hyperpage{111}
+    \subitem uniform in time strong, \hyperpage{174}
+    \subitem weak-strong, \hyperpage{464}
+  \item Crank-Nicolson scheme, \hyperpage{97}
+
+  \indexspace
+
+  \item DDFV, \hyperindexformat{\see {finite volume}}{xi}
+  \item $\Delta $-admissible mesh, \hyperpage{x}, \hyperpage{364}
+  \item density of smooth functions, \hyperpage{75}, \hyperpage{118}, 
+		\hyperpage{148}, \hyperpage{174}, \hyperpage{217}, 
+		\hyperpage{248}, \hyperpage{422}
+  \item DGGD, \hyperindexformat{\see {discontinuous Galerkin}}{319}
+  \item Dirichlet boundary condition
+    \subitem homogeneous, \hyperpage{ix}, \hyperpage{18}, 
+		\hyperpage{22}, \hyperpage{25, 26}, \hyperpage{33}, 
+		\hyperpage{41}
+  \item discontinuous Galerkin, \hyperpage{319, 320}
+    \subitem SIPG, \hyperpage{319}, \hyperpage{322}
+  \item discrete compactness in $H^{-1}(\O )$, \hyperpage{109}
+  \item discrete integration-by-parts, \hyperpage{460}
+  \item discrete Poincar\'e inequality, \hyperpage{12}, \hyperpage{19}, 
+		\hyperpage{421}
+  \item discrete Stokes formula, \hyperpage{416}
+  \item dual norm for space--time GD, \hyperpage{106}
+
+  \indexspace
+
+  \item elliptic problem, \hyperpage{32}
+  \item equicontinuous, \hyperpage{440}, \hyperpage{449}
+  \item error estimate, \hyperpage{34}, \hyperpage{267}, 
+		\hyperpage{285}
+    \subitem Dirichlet BCs, \hyperpage{34}, \hyperpage{62}
+    \subitem mixed BCs, \hyperpage{94}
+    \subitem Neumann BCs, \hyperpage{79}
+    \subitem on the trace, Fourier BCs, \hyperpage{79}
+    \subitem parabolic problem, \hyperpage{120}
+    \subitem $p$-Laplace problem, \hyperpage{47}
+  \item Estimates on the translates, \hyperpage{422}
+  \item Euler scheme, \hyperpage{97}
+
+  \indexspace
+
+  \item finite difference, \hyperpage{38}
+    \subitem \igobble , 
+		\hyperindexformat{\seealso {mimetic finite difference}}{38}
+  \item finite element
+    \subitem conforming
+      \subsubitem $\Pfe _k$, \hyperpage{261}
+    \subitem mixed , \hyperpage{301, 302}
+    \subitem mixed --
+      \subsubitem Raviart-Thomas, \hyperpage{305}, \hyperpage{314}
+    \subitem non-conforming, \hyperpage{5}, \hyperpage{285, 286}, 
+		\hyperpage{291}
+  \item finite volume, \hyperpage{x}, \hyperpage{7}, \hyperpage{199}, 
+		\hyperpage{339}, \hyperpage{362}
+    \subitem discrete duality (DDFV), \hyperpage{xi, xii}, 
+		\hyperpage{384}
+    \subitem discrete duality --
+      \subsubitem CeVeFE, \hyperpage{199}, \hyperpage{386}
+    \subitem hybrid, \hyperpage{347}, \hyperpage{349}
+    \subitem mixed , \hyperpage{xii}, \hyperpage{347}, \hyperpage{362}
+    \subitem MPFA, \hyperpage{x}, \hyperpage{xii}, \hyperpage{224}, 
+		\hyperpage{337, 338}, \hyperpage{340}, \hyperpage{344}
+    \subitem TPFA, \hyperpage{7--9}, \hyperpage{361}
+  \item fixed point method, \hyperpage{42}
+  \item fully implicit scheme, \hyperpage{135}
+
+  \indexspace
+
+  \item Galerkin discontinuous , 
+		\hyperindexformat{\ see {discontinuous Galerkin}}{319}
+  \item Galerkin method, \hyperpage{3}
+    \subitem conforming, \hyperpage{4}, \hyperpage{259--261}
+  \item GD-consistency, \hyperpage{19}, \hyperpage{24, 25}, 
+		\hyperpage{27}, \hyperpage{30}, \hyperpage{37}, 
+		\hyperpage{59}, \hyperpage{66}, \hyperpage{86}, 
+		\hyperpage{90}, \hyperpage{98}, \hyperpage{401, 402}
+    \subitem of LLE GDs, \hyperpage{222}, \hyperpage{239}, 
+		\hyperpage{241, 242}
+    \subitem of specific schemes, \hyperpage{223}, \hyperpage{304}, 
+		\hyperpage{312, 313}, \hyperpage{330}, \hyperpage{343}, 
+		\hyperpage{358}, \hyperpage{367}
+  \item gradient discretisation
+    \subitem abstract setting, \hyperpage{397}
+    \subitem Dirichlet BCs, \hyperpage{18}, \hyperpage{58}
+    \subitem Fourier BCs, \hyperpage{85}
+    \subitem mixed BCs, \hyperpage{89}
+    \subitem Neumann BCs, \hyperpage{65}, \hyperpage{69}
+    \subitem time-dependent problem, \hyperpage{98}
+  \item gradient scheme, \hyperpage{ix}, \hyperpage{17}, 
+		\hyperpage{201}, \hyperpage{322}, \hyperpage{469}
+    \subitem degenerate parabolic problem, \hyperpage{165}
+    \subitem error estimate, \hyperpage{47}, \hyperpage{73}, 
+		\hyperpage{94}
+    \subitem Leray-Lions problem, \hyperpage{52}, \hyperpage{54}
+    \subitem linear elliptic problem, \hyperpage{32}, 
+		\hyperpage{61, 62}, \hyperpage{93}
+    \subitem $p$-Laplace problem, \hyperpage{45, 46}
+    \subitem quasi-linear elliptic problem, \hyperpage{41}, 
+		\hyperpage{80, 81}, \hyperpage{84}, \hyperpage{87, 88}
+    \subitem quasi-linear parabolic problem, \hyperpage{119}, 
+		\hyperpage{148}
+    \subitem quasi-linear problem, \hyperpage{63}
+
+  \indexspace
+
+  \item H\"older inequalities, \hyperpage{458}
+  \item heterogeneous medium, \hyperpage{x, xi}, \hyperpage{41}, 
+		\hyperpage{161}, \hyperpage{202}, \hyperpage{256}, 
+		\hyperpage{273}, \hyperpage{364}
+  \item higher order, \hyperpage{30}, \hyperpage{35}, \hyperpage{45}, 
+		\hyperpage{225}, \hyperpage{312}
+  \item hybrid finite volume (HFV), 
+		\hyperindexformat{\see {finite volume}}{347}
+  \item hybrid high order (HHO), \hyperpage{xii}
+  \item hybrid mimetic finite difference (hMFD), 
+		\hyperindexformat{\see {mimetic finite difference}}{347}
+  \item hybrid mimetic mixed (HMM), \hyperpage{xii}, 
+		\hyperpage{347, 348}, \hyperpage{364}, \hyperpage{412}
+
+  \indexspace
+
+  \item interpolant, \hyperpage{19}, \hyperpage{39}, \hyperpage{60}, 
+		\hyperpage{85}, \hyperpage{218, 219}, 
+		\hyperpage{225, 226}, \hyperpage{257}, \hyperpage{268}, 
+		\hyperpage{297}, \hyperpage{410}, \hyperpage{413, 414}, 
+		\hyperpage{435}
+  \item interpolation error, \hyperpage{39}
+  \item interpolation of space--time functions, \hyperpage{102}
+
+  \indexspace
+
+  \item Jensen inequality, \hyperpage{460}
+
+  \indexspace
+
+  \item Lagrange interpolation, \hyperpage{262, 263}, \hyperpage{275}
+  \item Lebesgue spaces, \hyperpage{457}
+  \item Leray--Lions type problem, \hyperpage{54}, \hyperpage{149}
+  \item limit-conformity, \hyperpage{20, 21}, \hyperpage{24}, 
+		\hyperpage{37}, \hyperpage{67, 68}, \hyperpage{71, 72}, 
+		\hyperpage{91}, \hyperpage{398}
+    \subitem of specific schemes, \hyperpage{304}, \hyperpage{313}, 
+		\hyperpage{330}, \hyperpage{343}, \hyperpage{358}
+  \item linear spatial interpolator, \hyperpage{120}
+  \item local linearly exact (LLE) GD, \hyperpage{202}, \hyperpage{217}, 
+		\hyperpage{222}, \hyperpage{243}, \hyperpage{249}
+
+  \indexspace
+
+  \item mass lumping, \hyperpage{202}, \hyperpage{234, 235}, 
+		\hyperpage{240, 241}, \hyperpage{243}, 
+		\hyperpage{272, 273}
+    \subitem conforming $\Pfe _1$, \hyperpage{271}
+    \subitem non-conforming $\Pfe _1$, \hyperpage{299}
+  \item maximal monotone operator, \hyperpage{163}
+  \item mimetic finite difference (MFD), \hyperpage{xi}, \hyperpage{35}
+    \subitem hybrid, \hyperpage{xii}, \hyperpage{347}
+    \subitem mixed-hybrid, \hyperpage{315}
+    \subitem nodal, \hyperpage{xii}, \hyperpage{371, 372}
+  \item Minty trick, \hyperpage{465}
+  \item mixed finite element (MFE), 
+		\hyperindexformat{\see {finite element}}{302}
+  \item mixed finite volume (MFV), 
+		\hyperindexformat{\see {finite volume}}{347}
+  \item MPFA, \hyperpage{337, 338}
+  \item MPFA-O, \hyperpage{344}
+
+  \indexspace
+
+  \item Newton method, \hyperpage{42}
+
+  \indexspace
+
+  \item parabolic problem, \hyperpage{118}
+    \subitem degenerate, \hyperpage{161}
+    \subitem non-conservative, \hyperpage{133}
+  \item piecewise constant reconstruction, \hyperpage{23}
+  \item $p$-Laplace problem, \hyperpage{45}, \hyperpage{472}
+  \item Poincar\'e inequality, 
+		\hyperindexformat{\see {discrete Poincar\'e inequality}}{421}
+  \item polytopal
+    \subitem gradient, \hyperpage{349}, \hyperpage{415}
+    \subitem mesh, \hyperpage{203}
+    \subitem subset, \hyperpage{203}
+    \subitem toolbox, \hyperpage{207, 208}, \hyperpage{212}, 
+		\hyperpage{215}, \hyperpage{307}
+  \item polytope, \hyperpage{202, 203}
+  \item power of sums inequality, \hyperpage{460}
+
+  \indexspace
+
+  \item quasi-linear problem, \hyperpage{41}, \hyperpage{118}
+
+  \indexspace
+
+  \item regularity of the limit
+    \subitem abstract setting, \hyperpage{401}
+    \subitem Dirichlet BCs, \hyperpage{25}, \hyperpage{61}
+    \subitem mixed BCs, \hyperpage{92}
+    \subitem Neumann BCs, \hyperpage{72}
+  \item Rellich theorem, \hyperpage{422}
+  \item resolvent, \hyperpage{163}
+  \item Richards problem, \hyperpage{x}, \hyperpage{xiii}, 
+		\hyperpage{161}, \hyperpage{176}, \hyperpage{187}, 
+		\hyperpage{199}, \hyperpage{271}
+
+  \indexspace
+
+  \item second Strang lemma, \hyperpage{6}, \hyperpage{33}, 
+		\hyperpage{285}
+  \item segment condition, \hyperpage{68}
+  \item semi-implicit scheme, \hyperpage{142}
+  \item Sobolev
+    \subitem embedding, \hyperpage{418}, \hyperpage{431}, 
+		\hyperpage{435}, \hyperpage{437}
+    \subitem space, \hyperpage{457, 458}
+      \subsubitem broken, \hyperpage{251}, \hyperpage{306}, 
+		\hyperpage{416}
+  \item space size of a GD
+    \subitem definition, \hyperpage{29}
+    \subitem of specific schemes, \hyperpage{267}, \hyperpage{288}, 
+		\hyperpage{295}, \hyperpage{312}, \hyperpage{332}, 
+		\hyperpage{344}, \hyperpage{359}, \hyperpage{384}
+  \item space--time GD, \hyperpage{98}
+  \item stability, \hyperpage{18}, \hyperpage{38}, \hyperpage{40}
+    \subitem finite element, \hyperpage{40}
+    \subitem interpolant, \hyperpage{413}
+    \subitem polytopal gradient, \hyperpage{415}
+  \item static condensation, \hyperpage{230}, \hyperpage{275}, 
+		\hyperpage{353}
+  \item Stefan problem, \hyperpage{x}, \hyperpage{xiii}, 
+		\hyperpage{161}, \hyperpage{176}, \hyperpage{187}, 
+		\hyperpage{199}, \hyperpage{271}, \hyperpage{475}
+  \item super-admissible, \hyperpage{10}
+  \item super-convergence, \hyperpage{35}
+  \item SUSHI, \hyperpage{xi, xii}, \hyperpage{347}, \hyperpage{349}, 
+		\hyperpage{364}
+
+  \indexspace
+
+  \item $\theta $-scheme, \hyperpage{97}
+  \item topological degree, \hyperpage{462}
+  \item trace operator, \hyperpage{58}, \hyperpage{71}, \hyperpage{74}
+
+  \indexspace
+
+  \item uniform-in-time
+    \subitem $L^2(\O )$-weak convergence, \hyperpage{454}
+    \subitem  compactness, \hyperpage{450}
+  \item unisolvence, \hyperpage{263}
+
+  \indexspace
+
+  \item vertex approximate gradient (VAG), \hyperpage{273--277}, 
+		\hyperpage{470}
+  \item virtual element methods (VEM), \hyperpage{xii}
+
+  \indexspace
+
+  \item weak
+    \subitem derivative, \hyperpage{462, 463}
+  \item weak-strong
+    \subitem convergence, \hyperpage{464}
+    \subitem space--time convergence, \hyperpage{111}
+
+  \indexspace
+
+  \item Young inequality, \hyperpage{459}
+
+\end{theindex}

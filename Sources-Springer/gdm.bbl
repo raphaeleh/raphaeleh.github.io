@@ -1,0 +1,853 @@
+\begin{thebibliography}{100}
+
+\bibitem{aav2002intro}
+I.~Aavatsmark.
+\newblock An introduction to multipoint flux approximations for quadrilateral
+  grids.
+\newblock {\em Comput. Geosci.}, 6(3-4):405--432, 2002.
+\newblock Locally conservative numerical methods for flow in porous media.
+
+\bibitem{aav-96-dis}
+I.~Aavatsmark, T.~Barkve, O.~Boe, and T.~Mannseth.
+\newblock Discretization on non-orthogonal, quadrilateral grids for
+  inhomogeneous, anisotropic media.
+\newblock {\em J. Comput. Phys.}, 127(1):2--14, 1996.
+
+\bibitem{aav-98-disII}
+I.~Aavatsmark, T.~Barkve, O.~Boe, and T.~Mannseth.
+\newblock Discretization on unstructured grids for inhomogeneous, anisotropic
+  media. {II}. {D}iscussion and numerical results.
+\newblock {\em SIAM J. Sci. Comput.}, 19(5):1717--1736 (electronic), 1998.
+
+\bibitem{aav-98-dis}
+I.~Aavatsmark, T.~Barkve, O.~Boe, and T.~Mannseth.
+\newblock Discretization on unstructured grids for inhomogeneous, anisotropic
+  media. part i: Derivation of the methods.
+\newblock {\em SIAM Journal on Sc. Comp.}, 19:1700--1716, 1998.
+
+\bibitem{aav-06-mpfa}
+I.~Aavatsmark, G.~T. Eigestad, and R.~A. Klausen.
+\newblock Numerical convergence of the {MPFA} {O}-method for general
+  quadrilateral grids in two and three dimensions.
+\newblock In {\em Compatible spatial discretizations}, volume 142 of {\em IMA
+  Vol. Math. Appl.}, pages 1--21. Springer, New York, 2006.
+
+\bibitem{aav-07-mpfa}
+I.~Aavatsmark, G.~T. Eigestad, R.~A. Klausen, M.~F. Wheeler, and I.~Yotov.
+\newblock Convergence of a symmetric {MPFA} method on quadrilateral grids.
+\newblock {\em Comput. Geosci.}, 11(4):333--345, 2007.
+
+\bibitem{aav-03-well}
+I.~Aavatsmark and R.~Klausen.
+\newblock Well index in reservoir simulation for slanted and slightly curved
+  wells in {3D} grids.
+\newblock {\em SPE Journal}, 8:41--48, 2003.
+
+\bibitem{AGE10}
+L.~Ag{\'e}las, D.~A. Di~Pietro, and J.~Droniou.
+\newblock The {G} method for heterogeneous anisotropic diffusion on general
+  meshes.
+\newblock {\em M2AN Math. Model. Numer. Anal.}, 44(4):597--625, 2010.
+
+\bibitem{age-con-08}
+L.~Ag\'elas and R.~Masson.
+\newblock Convergence of the finite volume {MPFA} {O} scheme for heterogeneous
+  anisotropic diffusion problems on general meshes.
+\newblock {\em C. R. Math. Acad. Sci. Paris}, 346(17-18):1007--1012, 2008.
+
+\bibitem{YD14}
+Y.~Alnashri and J.~Droniou.
+\newblock Gradient schemes for an obstacle problem.
+\newblock In J.~Fuhrmann, M.~Ohlberger, and C.~Rohde, editors, {\em Finite
+  Volumes for Complex Applications VII-Methods and Theoretical Aspects},
+  volume~77, pages 67--75. Springer International Publishing, 2014.
+
+\bibitem{YD15}
+Y.~Alnashri and J.~Droniou.
+\newblock Gradient schemes for the {S}ignorini and the obstacle problems, and
+  application to hybrid mimetic mixed methods.
+\newblock {\em Computers and Mathematics with Applications}, 72:2788--2807,
+  2016.
+
+\bibitem{amann}
+H.~Amann.
+\newblock Compact embeddings of vector-valued {S}obolev and {B}esov spaces.
+\newblock {\em Glas. Mat. Ser. III}, 35(55)(1):161--177, 2000.
+\newblock Dedicated to the memory of Branko Najman.
+
+\bibitem{and-13-ddf}
+B.~Andreianov, M.~Bendahmane, and F.~Hubert.
+\newblock On 3{D} {DDFV} discretization of gradient and divergence operators:
+  discrete functional analysis tools and applications to degenerate parabolic
+  problems.
+\newblock {\em Comput. Methods Appl. Math.}, 13(4):369--410, 2013.
+
+\bibitem{and-12-ddf}
+B.~Andreianov, M.~Bendahmane, F.~Hubert, and S.~Krell.
+\newblock On 3{D} {DDFV} discretization of gradient and divergence operators.
+  {I}. {M}eshing, operators and discrete duality.
+\newblock {\em IMA J. Numer. Anal.}, 32(4):1574--1603, 2012.
+
+\bibitem{and-07-dis}
+B.~Andreianov, F.~Boyer, and F.~Hubert.
+\newblock Discrete duality finite volume schemes for {L}eray-{L}ions-type
+  elliptic problems on general 2{D} meshes.
+\newblock {\em Numer. Methods Partial Differential Equations}, 23(1):145--195,
+  2007.
+
+\bibitem{arnold1985mixed}
+D.~N. Arnold and F.~Brezzi.
+\newblock Mixed and conforming finite element methods; implementation,
+  postprocessing and error estimates.
+\newblock {\em Mod{\'e}lisation math{\'e}matique et analyse num{\'e}rique},
+  19(1):7--32, 1985.
+
+\bibitem{arnold2001uni}
+D.~N. Arnold, F.~Brezzi, B.~Cockburn, and L.~D. Marini.
+\newblock Unified analysis of discontinuous {G}alerkin methods for elliptic
+  problems.
+\newblock {\em SIAM J. Numer. Anal.}, 39(5):1749--1779, 2001/02.
+
+\bibitem{ABM06}
+H.~Attouch, G.~Buttazzo, and G.~Michaille.
+\newblock {\em Variational analysis in {S}obolev and {BV} spaces}, volume~6 of
+  {\em MPS/SIAM Series on Optimization}.
+\newblock Society for Industrial and Applied Mathematics (SIAM), Philadelphia,
+  PA; Mathematical Programming Society (MPS), Philadelphia, PA, 2006.
+
+\bibitem{Ayuso-de-Dios.Lipnikov.ea:16}
+B.~Ayuso~de Dios, K.~Lipnikov, and G.~Manzini.
+\newblock The nonconforming virtual element method.
+\newblock {\em ESAIM: Math. Model Numer. Anal.}, 50(3):879--904, 2016.
+
+\bibitem{barliu}
+J.~W. Barrett and W.~B. Liu.
+\newblock Quasi-norm error bounds for the finite element approximation of a
+  non-{N}ewtonian flow.
+\newblock {\em Numer. Math.}, 68(4):437--456, 1994.
+
+\bibitem{VEM}
+L.~Beir\~{a}o~da Veiga, F.~Brezzi, A.~Cangiani, G.~Manzini, L.~D. Marini, and
+  A.~Russo.
+\newblock Basic principles of virtual element methods.
+\newblock {\em Math. Models Methods Appl. Sci. (M3AS)}, 199(23):199--214, 2013.
+
+\bibitem{BDM10}
+L.~Beir{\~a}o~da Veiga, J.~Droniou, and G.~Manzini.
+\newblock A unified approach for handling convection terms in finite volumes
+  and mimetic discretization methods for elliptic problems.
+\newblock {\em {IMA} {J}. {N}umer. {A}nal.}, 31(4):1357--1401, 2011.
+
+\bibitem{pelletier}
+M.~Bertsch, P.~De~Mottoni, and L.~Peletier.
+\newblock The {S}tefan problem with heating: appearance and disappearance of a
+  mushy region.
+\newblock {\em Trans. Amer. Math. Soc}, 293:677--691, 1986.
+
+\bibitem{bkp85}
+M.~Bertsch, R.~Kersner, and L.~A. Peletier.
+\newblock Positivity versus localization in degenerate diffusion equations.
+\newblock {\em Nonlinear Anal.}, 9(9):987--1008, 1985.
+
+\bibitem{bessemoulin2015inequalities}
+M.~Bessemoulin-Chatard, C.~Chainais-Hillairet, and F.~Filbet.
+\newblock On discrete functional inequalities for some finite volume schemes.
+\newblock {\em IMA J. Numer. Anal.}, 35(3):1125--1149, 2015.
+
+\bibitem{phdbonelle}
+J.~Bonelle.
+\newblock {\em Compatible {D}iscrete {O}perator schemes on polyhedral meshes
+  for elliptic and {S}tokes equations}.
+\newblock PhD thesis, University of Paris-Est, 2014.
+
+\bibitem{EB14}
+J.~Bonelle and A.~Ern.
+\newblock Analysis of compatible discrete operator schemes for elliptic
+  problems on polyhedral meshes.
+\newblock {\em ESAIM Math. Model. Numer. Anal.}, 48(2):553--581, 2014.
+
+\bibitem{boy-08-ddf}
+F.~Boyer and F.~Hubert.
+\newblock Finite volume method for 2{D} linear and nonlinear elliptic problems
+  with discontinuities.
+\newblock {\em SIAM J. Numer. Anal.}, 46(6):3032--3070, 2008.
+
+\bibitem{boy-08-fin}
+F.~Boyer and F.~Hubert.
+\newblock Finite volume method for 2{D} linear and nonlinear elliptic problems
+  with discontinuities.
+\newblock {\em SIAM Journal on Numerical Analysis}, 46(6):3032--3070, 2008.
+
+\bibitem{BRA07}
+D.~Braess.
+\newblock {\em Finite elements}.
+\newblock Cambridge University Press, Cambridge, third edition, 2007.
+\newblock Theory, fast solvers, and applications in elasticity theory,
+  Translated from the German by Larry L. Schumaker.
+
+\bibitem{brenner2007weak}
+S.~C. Brenner and L.~Owens.
+\newblock A weakly over-penalized non-symmetric interior penalty method.
+\newblock {\em JNAIAM J. Numer. Anal. Ind. Appl. Math.}, 2(1-2):35--48, 2007.
+
+\bibitem{brenner-scott:08}
+S.~C. Brenner and L.~R. Scott.
+\newblock {\em The mathematical theory of finite element methods}, volume~15 of
+  {\em Texts in Applied Mathematics}.
+\newblock Springer, New York, third edition, 2008.
+
+\bibitem{brezis}
+H.~Brezis.
+\newblock {\em Functional analysis, {S}obolev spaces and partial differential
+  equations}.
+\newblock Universitext. Springer, New York, 2011.
+
+\bibitem{BBL09}
+F.~Brezzi, A.~Buffa, and K.~Lipnikov.
+\newblock Mimetic finite differences for elliptic problems.
+\newblock {\em M2AN Math. Model. Numer. Anal.}, 43(2):277--295, 2009.
+
+\bibitem{bre-05-con}
+F.~Brezzi, K.~Lipnikov, and M.~Shashkov.
+\newblock Convergence of the mimetic finite difference method for diffusion
+  problems on polyhedral meshes.
+\newblock {\em SIAM J. Numer. Anal.}, 43(5):1872--1896, 2005.
+
+\bibitem{bre-05-fam}
+F.~Brezzi, K.~Lipnikov, and V.~Simoncini.
+\newblock A family of mimetic finite difference methods on polygonal and
+  polyhedral meshes.
+\newblock {\em Math. Models Methods Appl. Sci.}, 15(10):1533--1551, 2005.
+
+\bibitem{Cangiani-Manzini-Russo:SINUM:2009}
+A.~Cangiani, G.~Manzini, and A.~Russo.
+\newblock Convergence analysis of a mimetic finite difference method for
+  general second-order elliptic problems.
+\newblock {\em SIAM J. Numer. Anal.}, 47(4):2612--2637, 2009.
+
+\bibitem{Cangiani.Manzini.Sutton:16}
+A.~Cangiani, G.~Manzini, and O.~J. Sutton.
+\newblock Conforming and nonconforming virtual element methods for elliptic
+  problems.
+\newblock {\em IMA J. Numer. Anal.}, 37(3):1317--1354, 2017.
+
+\bibitem{CBBE16}
+P.~Cantin, J.~Bonelle, E.~Burman, and A.~Ern.
+\newblock A vertex-based scheme on polyhedral meshes for advection-reaction
+  equations with sub-mesh stabilization.
+\newblock {\em Computers {\&} Mathematics with Applications}, 72(9):2057--2071,
+  2016.
+
+\bibitem{can-16-ver}
+P.~Cantin and A.~Ern.
+\newblock Vertex-based compatible discrete operator schemes on polyhedral
+  meshes for advection-diffusion equations.
+\newblock {\em Comput. Methods Appl. Math.}, 16(2):187--212, 2016.
+
+\bibitem{carr1999}
+J.~Carrillo.
+\newblock Entropy solutions for nonlinear degenerate problems.
+\newblock {\em Arch. Ration. Mech. Anal.}, 147(4):269--361, 1999.
+
+\bibitem{cat-92-ima}
+F.~Catt{\'e}, P.-L. Lions, J.-M. Morel, and T.~Coll.
+\newblock Image selective smoothing and edge detection by nonlinear diffusion.
+\newblock {\em SIAM J. Numer. Anal.}, 29(1):182--193, 1992.
+
+\bibitem{cha-07-por}
+C.~Chainais-Hillairet and J.~Droniou.
+\newblock Convergence analysis of a mixed finite volume scheme for an
+  elliptic-parabolic system modeling miscible fluid flows in porous media.
+\newblock {\em SIAM J. Numer. Anal.}, 45(5):2228--2258, 2007.
+
+\bibitem{cha-15-ddf}
+C.~Chainais-Hillairet, S.~Krell, and A.~Mouton.
+\newblock Convergence analysis of a {DDFV} scheme for a system describing
+  miscible fluid flows in porous media.
+\newblock {\em Numer. Methods Partial Differential Equations}, 31(3):723--760,
+  2015.
+
+\bibitem{jungel2}
+X.~Chen, A.~J{\"u}ngel, and J.-G. Liu.
+\newblock A note on {A}ubin-{L}ions-{D}ubinski\u\i\ lemmas.
+\newblock {\em Acta Appl. Math.}, 133:33--43, 2014.
+
+\bibitem{CVW}
+Y.~Chen, B.~Vemuri, and L.~Wang.
+\newblock Image denoising and segmentation via nonlinear diffusion.
+\newblock {\em Computers and Mathematics with Applications}, 39:131--149, 2000.
+
+\bibitem{CDL17}
+H.~M. Cheng, J.~Droniou, and K.-N. Le.
+\newblock Convergence analysis of a family of {ELLAM} schemes for a fully
+  coupled model of miscible displacement in porous media.
+\newblock Submitted. \texttt{https://arxiv.org/abs/1710.01897}, 2017.
+
+\bibitem{cia-91-fin}
+P.~Ciarlet.
+\newblock The finite element method.
+\newblock In P.~G. Ciarlet and J.-L. Lions, editors, {\em Part I}, Handbook of
+  Numerical Analysis, III. North-Holland, Amsterdam, 1991.
+
+\bibitem{ciarlet}
+P.~G. Ciarlet.
+\newblock The finite element method for elliptic problems.
+\newblock In {\em Studies in Mathematics and its Applications, Vol. 4}, pages
+  xix+530. North-Holland Publishing Co., Amsterdam-New York-Oxford, 1978.
+
+\bibitem{clement:75}
+P.~Cl\'ement.
+\newblock Approximation by finite element functions using local regularization.
+\newblock {\em RAIRO Anal. Num\'er.}, 9:77--84, 1975.
+
+\bibitem{cou-98-dis}
+Y.~Coudi\`ere, T.~Gallou\"et, and R.~Herbin.
+\newblock Discrete {S}obolev {I}nequalities and {$L^p$} {E}rror {E}stimates for
+  {A}pproximate {F}inite {V}olume {S}olutions of {C}onvection {D}iffusion
+  {E}quations.
+\newblock {\em Mathematical Modelling and Numerical Analysis}, 35:767--778,
+  1998.
+
+\bibitem{cou-10-dis}
+Y.~Coudi{\`e}re and F.~Hubert.
+\newblock A 3d discrete duality finite volume method for nonlinear elliptic
+  equations.
+\newblock {\em SIAM Journal on Scientific Computing}, 33(4):1739--1764, 2011.
+
+\bibitem{cou-11-3d}
+Y.~Coudi{\`e}re, F.~Hubert, and G.~Manzini.
+\newblock A {C}e{V}e{FE} {DDFV} scheme for discontinuous anisotropic
+  permeability tensors.
+\newblock In {\em Finite volumes for complex applications {VI}}, volume~4 of
+  {\em Springer Proc. Math.}, pages 283--291. Springer, Heidelberg, 2011.
+
+\bibitem{cou-99-con}
+Y.~Coudi{\`e}re, J.-P. Vila, and P.~Villedieu.
+\newblock Convergence rate of a finite volume scheme for a two-dimensional
+  convection-diffusion problem.
+\newblock {\em M2AN Math. Model. Numer. Anal.}, 33(3):493--516, 1999.
+
+\bibitem{crouzeix-raviart-73}
+M.~Crouzeix and P.-A. Raviart.
+\newblock Conforming and nonconforming finite element methods for solving the
+  stationary {S}tokes equations. {I}.
+\newblock {\em Rev. Fran{\c c}aise Automat. Informat. Recherche
+  Op{\'e}rationnelle S{\'e}r. Rouge}, 7(R-3):33--75, 1973.
+
+\bibitem{deimling}
+K.~Deimling.
+\newblock {\em Nonlinear functional analysis}.
+\newblock Springer-Verlag, Berlin, 1985.
+
+\bibitem{pietro-droniou}
+D.~A. Di~Pietro and J.~Droniou.
+\newblock A {H}ybrid {H}igh-{O}rder method for {L}eray--{L}ions elliptic
+  equations on general meshes.
+\newblock {\em Math. Comp.}, 86(307):2159--2191, 2017.
+
+\bibitem{DD16}
+D.~A. Di~Pietro and J.~Droniou.
+\newblock {$W^{s,p}$}-approximation properties of elliptic projectors on
+  polynomial spaces, with application to the error analysis of a {H}ybrid
+  {H}igh-{O}rder discretisation of {L}eray--{L}ions problems.
+\newblock {\em Math. Models Methods Appl. Sci.}, 27(5):879--908, 2017.
+
+\bibitem{DDM:17}
+D.~A. Di~Pietro, J.~Droniou, and G.~Manzini.
+\newblock Discontinuous skeletal gradient discretisation methods on polytopal
+  meshes.
+\newblock {\em J. Comput. Phys.}, 2017.
+\newblock To appear. DOI: 10.1016/j.jcp.2017.11.018.
+
+\bibitem{dip2010disc}
+D.~A. Di~Pietro and A.~Ern.
+\newblock Discrete functional analysis tools for discontinuous {G}alerkin
+  methods with application to the incompressible {N}avier-{S}tokes equations.
+\newblock {\em Math. Comp.}, 79(271):1303--1330, 2010.
+
+\bibitem{dip2012math}
+D.~A. Di~Pietro and A.~Ern.
+\newblock {\em Mathematical aspects of discontinuous {G}alerkin methods},
+  volume~69 of {\em Math\'ematiques \& Applications (Berlin) [Mathematics \&
+  Applications]}.
+\newblock Springer, Heidelberg, 2012.
+
+\bibitem{HHO}
+D.~A. Di~Pietro, A.~Ern, and S.~Lemaire.
+\newblock An arbitrary-order and compact-stencil discretization of diffusion on
+  general meshes based on local reconstruction operators.
+\newblock {\em Comput. Meth. Appl. Math.}, 14(4):461--472, 2014.
+
+\bibitem{die-1977-vect}
+J.~Diestel and J.~J. Uhl, Jr.
+\newblock {\em Vector measures}.
+\newblock American Mathematical Society, Providence, R.I., 1977.
+\newblock With a foreword by B. J. Pettis, Mathematical Surveys, No. 15.
+
+\bibitem{dom-05-fin}
+K.~Domelevo and P.~Omnes.
+\newblock A finite volume method for the {L}aplace equation on almost arbitrary
+  two-dimensional grids.
+\newblock {\em M2AN Math. Model. Numer. Anal.}, 39(6):1203--1249, 2005.
+
+\bibitem{drb-07-con}
+O.~Drbl{\'{\i}}kov{\'a} and K.~Mikula.
+\newblock Convergence analysis of finite volume scheme for nonlinear tensor
+  anisotropic diffusion in image processing.
+\newblock {\em SIAM J. Numer. Anal.}, 46(1):37--60, 2007/08.
+
+\bibitem{jungel1}
+M.~Dreher and A.~J{\"u}ngel.
+\newblock Compact families of piecewise constant functions in {$L^p(0,T;B)$}.
+\newblock {\em Nonlinear Anal.}, 75(6):3072--3077, 2012.
+
+\bibitem{DRO01}
+J.~Droniou.
+\newblock Int\'egration et espaces de sobolev \`a valeurs vectorielles.
+\newblock Polycopi\'es de l'Ecole Doctorale de Maths-Info de Marseille.
+  \texttt{https://hal.archives-ouvertes.fr/hal-01382368}, 2001.
+
+\bibitem{dro-06-ll}
+J.~Droniou.
+\newblock Finite volume schemes for fully non-linear elliptic equations in
+  divergence form.
+\newblock {\em ESAIM: Mathematical Modelling and Numerical Analysis},
+  40(6):1069--1100, 2006.
+
+\bibitem{review}
+J.~Droniou.
+\newblock Finite volume schemes for diffusion equations: introduction to and
+  review of modern methods.
+\newblock {\em Math. Models Methods Appl. Sci. (M3AS)}, 24(8):1575--1619, 2014.
+\newblock Special issue on Recent Techniques for {PDE} Discretizations on
+  Polyhedral Meshes.
+
+\bibitem{dro-06-mix}
+J.~Droniou and R.~Eymard.
+\newblock A mixed finite volume scheme for anisotropic diffusion problems on
+  any grid.
+\newblock {\em Numer. Math.}, 105(1):35--71, 2006.
+
+\bibitem{dro-08-stu}
+J.~Droniou and R.~Eymard.
+\newblock Study of the mixed finite volume method for {S}tokes and
+  {N}avier-{S}tokes equations.
+\newblock {\em Numerical methods for partial differential equations},
+  25(1):137--171, 2009.
+
+\bibitem{DE15}
+J.~Droniou and R.~Eymard.
+\newblock Uniform-in-time convergence of numerical methods for non-linear
+  degenerate parabolic equations.
+\newblock {\em Numer. Math.}, 132(4):721--766, 2016.
+
+\bibitem{fvca8-agdm}
+J.~Droniou and R.~Eymard.
+\newblock The asymmetric gradient discretisation method.
+\newblock In {\em Finite volumes for complex applications. {VIII}. (Lille,
+  2017)}, Springer Proc. Math. Stat. Springer, Cham, 2017.
+
+\bibitem{DEF14}
+J.~Droniou, R.~Eymard, and P.~Feron.
+\newblock Gradient {S}chemes for {S}tokes problem.
+\newblock {\em {IMA} J. Numer. Anal.}, 36(4):1636--1669, 2016.
+
+\bibitem{dro-10-uni}
+J.~Droniou, R.~Eymard, T.~Gallou{\"e}t, and R.~Herbin.
+\newblock A unified approach to mimetic finite difference, hybrid finite volume
+  and mixed finite volume methods.
+\newblock {\em Math. Models Methods Appl. Sci.}, 20(2):265--295, 2010.
+
+\bibitem{dro-12-gra}
+J.~Droniou, R.~Eymard, T.~Gallou{\"e}t, and R.~Herbin.
+\newblock Gradient schemes: a generic framework for the discretisation of
+  linear, nonlinear and nonlocal elliptic and parabolic equations.
+\newblock {\em Math. Models Methods Appl. Sci. (M3AS)}, 23(13):2395--2432,
+  2013.
+
+\bibitem{DEH15}
+J.~Droniou, R.~Eymard, and R.~Herbin.
+\newblock Gradient schemes: generic tools for the numerical analysis of
+  diffusion equations.
+\newblock {\em {M2AN} Math. Model. Numer. Anal.}, 50(3):749--781, 2016.
+\newblock Special issue -- Polyhedral discretization for PDE.
+
+\bibitem{DET15}
+J.~Droniou, R.~Eymard, and K.~S. Talbot.
+\newblock Convergence in {$C([0;T];L^2(\Omega))$} of weak solutions to
+  perturbed doubly degenerate parabolic equations.
+\newblock {\em J. Differential Equations}, 260(11):7821--7860, 2016.
+
+\bibitem{DL14}
+J.~Droniou and B.~P. Lamichhane.
+\newblock Gradient schemes for linear and non-linear elasticity equations.
+\newblock {\em Numer. {M}ath.}, 129(2):251--277, 2015.
+
+\bibitem{DN16}
+J.~Droniou and N.~Nataraj.
+\newblock Improved {$L^2$} estimate for gradient schemes and super-convergence
+  of the tpfa finite volume scheme.
+\newblock {\em IMA J. Numer. Anal.}, page 40p, 2017.
+\newblock To appear, DOI: 10.1093/imanum/drx028.
+
+\bibitem{boffi2008mixed}
+R.~Dur{\'a}n.
+\newblock Mixed finite elements.
+\newblock In D.~Boffi and L.~Gastaldi, editors, {\em Mixed finite elements,
+  compatibility conditions, and applications: lectures given at the CIME Summer
+  School held in Cetraro, Italy, June 26-July 1, 2006}, volume 1939 of {\em
+  Lecture Notes in Mathematics}, pages 1--44. Springer, 2008.
+
+\bibitem{ekeland-temam}
+I.~Ekeland and R.~T{\'e}mam.
+\newblock {\em Convex analysis and variational problems}, volume~28 of {\em
+  Classics in Applied Mathematics}.
+\newblock Society for Industrial and Applied Mathematics (SIAM), Philadelphia,
+  PA, english edition, 1999.
+\newblock Translated from the French.
+
+\bibitem{eps2007estim}
+Y.~Epshteyn and B.~Rivi{\`e}re.
+\newblock Estimation of penalty parameters for symmetric interior penalty
+  {G}alerkin methods.
+\newblock {\em J. Comput. Appl. Math.}, 206(2):843--872, 2007.
+
+\bibitem{ern2004theory}
+A.~Ern and J.-L. Guermond.
+\newblock {\em Theory and practice of finite elements}, volume 159.
+\newblock Springer, 2004.
+
+\bibitem{ern-16-moll}
+A.~Ern and J.-L. Guermond.
+\newblock Mollification in strongly lipschitz domains with application to
+  continuous and discrete de rham complexes.
+\newblock {\em Comput. Meth. in Appl. Math.}, 16(1):51--75, 2016.
+
+\bibitem{ErnGuermond:quasi-interp}
+A.~Ern and J.-L. Guermond.
+\newblock Finite element quasi-interpolation and best approximation.
+\newblock {\em ESAIM: M2AN}, 51(4):1367--1385, 2017.
+
+\bibitem{ern2017fem}
+A.~Ern and J.-L. Guermond.
+\newblock {\em Finite elements methods, updated version}.
+\newblock Springer, to be published in 2017.
+
+\bibitem{EV10}
+L.~C. Evans.
+\newblock {\em Partial differential equations}, volume~19 of {\em Graduate
+  Studies in Mathematics}.
+\newblock American Mathematical Society, Providence, RI, second edition, 2010.
+
+\bibitem{ES}
+L.~C. Evans and J.~Spruck.
+\newblock Motion of level sets by mean curvature {I}.
+\newblock {\em J. Differential Geometry}, 33:635--681, 1991.
+
+\bibitem{EF15}
+R.~Eymard, P.~Feron, and C.~Guichard.
+\newblock Family of convergent numerical schemes for the incompressible
+  {N}avier--{S}tokes equations.
+\newblock {\em Mathematics and Computers in Simulation}, 144(Supplement
+  C):196--218, 2018.
+
+\bibitem{book}
+R.~Eymard, T.~Gallou{\"e}t, and R.~Herbin.
+\newblock Finite volume methods.
+\newblock In P.~G. Ciarlet and J.-L. Lions, editors, {\em Techniques of
+  Scientific Computing, Part III}, Handbook of Numerical Analysis, VII, pages
+  713--1020. North-Holland, Amsterdam, 2000.
+
+\bibitem{cras2004}
+R.~Eymard, T.~Gallou\"et, and R.~Herbin.
+\newblock A finite volume scheme for anisotropic diffusion problems.
+\newblock {\em C. R. Math. Acad. Sci. Paris}, 339(4):299--302, 2004.
+
+\bibitem{eym-06-cel}
+R.~Eymard, T.~Gallou{\"e}t, and R.~Herbin.
+\newblock A cell-centered finite-volume approximation for anisotropic diffusion
+  operators on unstructured meshes in any space dimension.
+\newblock {\em IMA J. Numer. Anal.}, 26(2):326--353, 2006.
+
+\bibitem{eym-07-new}
+R.~Eymard, T.~Gallou{\"e}t, and R.~Herbin.
+\newblock A new finite volume scheme for anisotropic diffusion problems on
+  general grids: convergence analysis.
+\newblock {\em C. R., Math., Acad. Sci. Paris}, 344(6):403--406, 2007.
+
+\bibitem{eym-09-cel}
+R.~Eymard, T.~Gallou\"et, and R.~Herbin.
+\newblock Cell centred discretization of fully non linear elliptic problems on
+  general multidimensional polyhedral grids.
+\newblock {\em J. Numer. Math.}, 17(3):173--193, 2009.
+
+\bibitem{sushi}
+R.~Eymard, T.~Gallou{\"e}t, and R.~Herbin.
+\newblock Discretization of heterogeneous and anisotropic diffusion problems on
+  general nonconforming meshes {SUSHI}: a scheme using stabilization and hybrid
+  interfaces.
+\newblock {\em IMA J. Numer. Anal.}, 30(4):1009--1043, 2010.
+
+\bibitem{eym-17-dggd}
+R.~Eymard and C.~Guichard.
+\newblock {Discontinuous Galerkin gradient discretisations for the
+  approximation of second-order differential operators in divergence form}.
+\newblock working paper or preprint, Nov. 2017.
+
+\bibitem{eym-11-benvag}
+R.~Eymard, C.~Guichard, and R.~Herbin.
+\newblock Benchmark 3{D}: the {VAG} scheme.
+\newblock In {\em Finite volumes for complex applications. {VI}. {P}roblems \&
+  perspectives. {V}olume 1, 2}, volume~4 of {\em Springer Proc. Math.}, pages
+  1013--1022. Springer, Heidelberg, 2011.
+
+\bibitem{eym-12-sma}
+R.~Eymard, C.~Guichard, and R.~Herbin.
+\newblock Small-stencil 3d schemes for diffusive flows in porous media.
+\newblock {\em M2AN}, 46:265--290, 2012.
+
+\bibitem{VAGcanum}
+R.~Eymard, C.~Guichard, R.~Herbin, and R.~Masson.
+\newblock Vertex centred discretization of two-phase {D}arcy flows on general
+  meshes.
+\newblock In {\em Congr\`es {N}ational de {M}ath\'ematiques {A}ppliqu\'ees et
+  {I}ndustrielles}, volume~35 of {\em ESAIM Proc.}, pages 59--78. EDP Sci., Les
+  Ulis, 2011.
+
+\bibitem{VAG-compGeo}
+R.~Eymard, C.~Guichard, R.~Herbin, and R.~Masson.
+\newblock Vertex-centred discretization of multiphase compositional darcy flows
+  on general meshes.
+\newblock {\em Computational Geosciences}, pages 1--19, 2012.
+
+\bibitem{zamm2013}
+R.~Eymard, C.~Guichard, R.~Herbin, and R.~Masson.
+\newblock Gradient schemes for two-phase flow in heterogeneous porous media and
+  {R}ichards equation.
+\newblock {\em ZAMM Z. Angew. Math. Mech.}, 94(7-8):560--585, 2014.
+
+\bibitem{EHHMS15}
+R.~Eymard, A.~Handlovi\v{c}ov\'a, R.~Herbin, K.~Mikula, and O.~Sta\v{s}ov\'a.
+\newblock Applications of approximate gradient schemes for nonlinear parabolic
+  equations.
+\newblock {\em Appl. Math.}, 60(2):135--156, 2015.
+
+\bibitem{3Dbench}
+R.~Eymard, G.~Henry, R.~Herbin, F.~Hubert, R.~Klofkorn, and G.~Manzini.
+\newblock 3d benchmark on discretization schemes for anisotropic diffusion
+  problems on general grids.
+\newblock In {\em Proceedings of Finite Volumes for Complex Applications VI},
+  pages 895--930, Praha, 2011. Springer, Springer.
+
+\bibitem{fai-92-con}
+I.~Faille.
+\newblock A control volume method to solve an elliptic equation on a
+  two-dimensional irregular mesh.
+\newblock {\em Comput. Methods Appl. Mech. Engrg.}, 100(2):275--290, 1992.
+
+\bibitem{filbet2006patlak}
+F.~Filbet.
+\newblock A finite volume scheme for the {P}atlak-{K}eller-{S}egel chemotaxis
+  model.
+\newblock {\em Numer. Math.}, 104(4):457--488, 2006.
+
+\bibitem{polym2-gh}
+T.~Gallou{\"e}t and R.~Herbin.
+\newblock {Partial differential equations}.
+\newblock Master course,
+  \texttt{https://hal.archives-ouvertes.fr/cel-01196782}, Sept. 2015.
+
+\bibitem{ghlm-17-macns}
+T.~Gallou{\"e}t, R.~Herbin, J.-C. Latch{\'e}, and K.~Mallem.
+\newblock {Convergence of the MAC scheme for the incompressible
+  {N}avier--{S}tokes equations}.
+\newblock {\em {Foundations of Computational Mathematics}}, pages 1--41, 2016.
+
+\bibitem{gal-12-com}
+T.~Gallou{\"e}t and J.~Latch{\'e}.
+\newblock Compactness of discrete approximate solutions to parabolic pdes --
+  application to a turbulence model.
+\newblock {\em Commun. Pure Appl. Anal}, 12(6):2371--2391, 2012.
+
+\bibitem{gli-10-sob}
+A.~Glitzky and J.~A. Griepentrog.
+\newblock Discrete {S}obolev-{P}oincar\'e inequalities for {V}oronoi finite
+  volume approximations.
+\newblock {\em SIAM J. Numer. Anal.}, 48(1):372--391, 2010.
+
+\bibitem{gli-11-sob}
+A.~Glitzky and J.~A. Griepentrog.
+\newblock On discrete {S}obolev-{P}oincar\'e inequalities for {V}oronoi finite
+  volume approximations.
+\newblock In {\em Finite volumes for complex applications {VI}. {P}roblems \&
+  perspectives. {V}olume 1, 2}, volume~4 of {\em Springer Proc. Math.}, pages
+  533--541. Springer, Heidelberg, 2011.
+
+\bibitem{ghp97}
+M.~Guedda, D.~Hilhorst, and M.~A. Peletier.
+\newblock Disappearing interfaces in nonlinear diffusion.
+\newblock {\em Adv. Math. Sci. Appl.}, 7(2):695--710, 1997.
+
+\bibitem{had23}
+J.~Hadamard.
+\newblock {\em Lectures on {Cauchy's} Problem in Linear Partial Differential
+  Equations}.
+\newblock Dover Phoenix, New York, NY, USA, 1923.
+
+\bibitem{hans2003disc}
+P.~Hansbo and M.~G. Larson.
+\newblock Discontinuous {G}alerkin and the {C}rouzeix-{R}aviart element:
+  application to elasticity.
+\newblock {\em M2AN Math. Model. Numer. Anal.}, 37(1):63--72, 2003.
+
+\bibitem{her-95-err}
+R.~Herbin.
+\newblock An error estimate for a finite volume scheme for a
+  diffusion-convection problem on a triangular mesh.
+\newblock {\em Numer. Methods Partial Differential Equations}, 11(2):165--173,
+  1995.
+
+\bibitem{2Dbench}
+R.~Herbin and F.~Hubert.
+\newblock Benchmark on discretization schemes for anisotropic diffusion
+  problems on general grids.
+\newblock In {\em Finite volumes for complex applications {V}}, pages 659--692.
+  ISTE, London, 2008.
+
+\bibitem{her-98-met}
+F.~Hermeline.
+\newblock Une m\'ethode de volumes finis pour les \'equations elliptiques du
+  second ordre.
+\newblock {\em C. R. Acad. Sci. Paris S\'er. I Math.}, 326(12):1433--1436,
+  1998.
+
+\bibitem{her-00-fin}
+F.~Hermeline.
+\newblock A finite volume method for the approximation of diffusion operators
+  on distorted meshes.
+\newblock {\em J. Comput. Phys.}, 160(2):481--499, 2000.
+
+\bibitem{her-03-app}
+F.~Hermeline.
+\newblock Approximation of diffusion operators with discontinuous tensor
+  coefficients on distorted meshes.
+\newblock {\em Comput. Methods Appl. Mech. Engrg.}, 192(16-18):1939--1959,
+  2003.
+
+\bibitem{her-07-app}
+F.~Hermeline.
+\newblock Approximation of 2-d and 3-d diffusion operators with variable full
+  tensor coefficients on arbitrary meshes.
+\newblock {\em Computer methods in applied mechanics and engineering},
+  196(21):2497--2526, 2007.
+
+\bibitem{her-08-num}
+F.~Hermeline.
+\newblock Numerical experiments with the {DDFV} method.
+\newblock In {\em Finite volumes for complex applications {V}}, pages 851--863.
+  ISTE, London, 2008.
+
+\bibitem{her-09-fin}
+F.~Hermeline.
+\newblock A finite volume method for approximating 3d diffusion operators on
+  general meshes.
+\newblock {\em Journal of computational Physics}, 228(16):5763--5786, 2009.
+
+\bibitem{Jaffre:84}
+J.~Jaffr{\'e}.
+\newblock D{\'e}centrage et {\'e}l{\'e}ments finis mixtes pour les
+  {\'e}quations de diffusion-convection.
+\newblock {\em Calcolo}, 21:171--197, 1984.
+
+\bibitem{Kato1995}
+T.~Kato.
+\newblock {\em Introduction to the theory of operators in Banach spaces}, pages
+  126--188.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 1995.
+
+\bibitem{phdlemaire}
+S.~Lemaire.
+\newblock {\em Discr\'etisations non-conformes d'un mod\`ele porom\'ecanique
+  sur maillages g\'en\'eraux}.
+\newblock PhD thesis, University of Paris-Est Marne-la-Vall\'ee, 2012.
+\newblock [oai:tel.archives-ouvertes.fr:tel-00957292] --
+  http://tel.archives-ouvertes.fr/tel-00957292.
+
+\bibitem{ler-65-res}
+J.~{L}eray and J.~{L}ions.
+\newblock Quelques r{\'e}sultats de {V}i\v sik sur les probl{\`e}mes
+  elliptiques non lin{\'e}aires par les m{\'e}thodes de {M}inty-{B}rowder.
+\newblock {\em Bull. Soc. Math. France}, 93:97--107, 1965.
+
+\bibitem{Lipnikov-Manzini:2014}
+K.~Lipnikov and G.~Manzini.
+\newblock A high-order mimetic method on unstructured polyhedral meshes for the
+  diffusion equation.
+\newblock {\em J. Comput. Phys.}, 272:360--385, 2014.
+
+\bibitem{mfdrev}
+K.~Lipnikov, G.~Manzini, and M.~Shashkov.
+\newblock Mimetic finite difference method.
+\newblock {\em J. Comput. Phys.}, 257-Part B:1163--1227, 2014.
+
+\bibitem{lip-loc-09}
+K.~Lipnikov, M.~Shashkov, and I.~Yotov.
+\newblock Local flux mimetic finite difference methods.
+\newblock {\em Numer. Math.}, 112(1):115--152, 2009.
+
+\bibitem{LSG}
+R.~Liska, M.~Shashkov, and V.~Ganzha.
+\newblock Analysis and optimization of inner products for mimetic finite
+  difference methods on triangular grid.
+\newblock {\em Math. Comput. Simu.}, 67:55--66, 2004.
+
+\bibitem{min-63-mon}
+G.~Minty.
+\newblock On a monotonicity method for the solution of non-linear equations in
+  {B}anach spaces.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 50(6):1038, 1963.
+
+\bibitem{str-72-var}
+G.~Strang.
+\newblock Variational crimes in the finite element method.
+\newblock In {\em The mathematical foundations of the finite element method
+  with applications to partial differential equations ({P}roc. {S}ympos.,
+  {U}niv. {M}aryland, {B}altimore, {M}d., 1972)}, pages 689--710. Academic
+  Press, New York, 1972.
+
+\bibitem{strang-fix}
+G.~Strang and G.~Fix.
+\newblock {\em An analysis of the finite element method}.
+\newblock Wellesley-Cambridge Press, Wellesley, MA, second edition, 2008.
+
+\bibitem{temam-77}
+R.~Temam.
+\newblock {\em {N}avier--{S}tokes equations theory and numerical analysis}.
+\newblock North-Holland, 1977.
+
+\bibitem{temam1984theory}
+R.~Temam.
+\newblock {\em {N}avier--{S}tokes equations}, volume~2 of {\em Studies in
+  Mathematics and its Applications}.
+\newblock North-Holland Publishing Co., Amsterdam, third edition, 1984.
+\newblock Theory and numerical analysis, With an appendix by F. Thomasset.
+
+\bibitem{Thomee-2006-GFEM}
+V.~Thom{\'e}e.
+\newblock {\em Galerkin Finite Element Methods for Parabolic Problems (Springer
+  Series in Computational Mathematics)}.
+\newblock Springer-Verlag New York, Inc., Secaucus, NJ, USA, 2006.
+
+\bibitem{VeeserVerfurth2012Poincare}
+A.~Veeser and R.~Verf\"urth.
+\newblock Poincar\'e constants for finite element stars.
+\newblock {\em IMA Journal of Numerical Analysis}, 32(1):30--47, 2012.
+
+\bibitem{wei-99-coh}
+J.~Weickert.
+\newblock Coherence-enhancing diffusion filtering.
+\newblock {\em International Journal of Computer Vision}, 31(2/3):111--127,
+  1999.
+
+\end{thebibliography}

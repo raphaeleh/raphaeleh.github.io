@@ -1,0 +1,223 @@
+\contentsline {part}{Part\ I\hspace {\betweenumberspace }Elliptic problems}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Motivation and basic ideas}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Some well-known approximations of linear elliptic problems}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Galerkin methods}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Non-conforming $\mathbb {P}_1$ finite elements}{5}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Two-point flux approximation finite volumes on Cartesian meshes}{7}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Towards the gradient discretisation method}{10}{section.1.2}
+\contentsline {section}{\numberline {1.3}Generalisation to non-linear problems}{13}{section.1.3}
+\contentsline {chapter}{\numberline {2}Dirichlet boundary conditions}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Homogeneous Dirichlet boundary conditions}{18}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Gradient discretisations}{18}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Gradient schemes for linear problems}{32}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}On the notions of consistency and stability}{38}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Gradient schemes for quasi-linear problems}{41}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Gradient schemes for $p$-Laplace type problems: $p\in (1,+\infty )$}{45}{subsection.2.1.5}
+\contentsline {subsubsection}{An error estimate for the $p$-Laplace problem}{45}{section*.4}
+\contentsline {subsubsection}{Convergence of gradient schemes for Leray--Lions type problems}{52}{section*.5}
+\contentsline {section}{\numberline {2.2}Non-homogeneous Dirichlet boundary conditions}{58}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Gradient discretisations}{58}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Gradient schemes for linear problems}{61}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Gradient schemes for quasi-linear problems}{63}{subsection.2.2.3}
+\contentsline {chapter}{\numberline {3}Neumann, Fourier and mixed boundary conditions}{65}{chapter.3}
+\contentsline {section}{\numberline {3.1}Neumann boundary conditions}{65}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Gradient discretisations}{65}{subsection.3.1.1}
+\contentsline {subsubsection}{Homogeneous Neumann boundary conditions}{65}{section*.6}
+\contentsline {subsubsection}{Non-homogeneous Neumann boundary conditions}{69}{section*.7}
+\contentsline {subsection}{\numberline {3.1.2}Complements on trace operators}{74}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Gradient schemes for linear problems}{77}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Gradient schemes for quasi-linear problems}{80}{subsection.3.1.4}
+\contentsline {subsubsection}{Homogeneous Neumann BCs}{80}{section*.8}
+\contentsline {subsubsection}{Non-homogeneous Neumann boundary conditions}{83}{section*.9}
+\contentsline {section}{\numberline {3.2}Fourier boundary conditions}{85}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Gradient discretisations}{85}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Gradient schemes for quasi-linear problems}{87}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Mixed boundary conditions}{89}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Gradient discretisations}{89}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Gradient schemes for linear problems}{93}{subsection.3.3.2}
+\contentsline {part}{Part\ II\hspace {\betweenumberspace }Parabolic problems}{95}{part.2}
+\contentsline {chapter}{\numberline {4}Time-dependent problems}{97}{chapter.4}
+\contentsline {section}{\numberline {4.1}Space--time gradient discretisation}{97}{section.4.1}
+\contentsline {section}{\numberline {4.2}Compactness results for space-time gradient discretisations}{106}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Averaged-in-time compactness for space-time GDs}{106}{subsection.4.2.1}
+\contentsline {subsubsection}{Aubin--Simon theorem}{106}{section*.10}
+\contentsline {subsubsection}{Convergence of a weak--strong product, and identification of non-linear weak limits}{109}{section*.11}
+\contentsline {subsection}{\numberline {4.2.2}Uniform-in-time compactness for space-time GDs}{112}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}Parabolic problems}{117}{chapter.5}
+\contentsline {section}{\numberline {5.1}The gradient discretisation method for a quasi-linear parabolic problem}{117}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}The continuous problem}{118}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}The gradient scheme}{119}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Error estimate in the linear case}{120}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Convergence analysis in the non-linear case}{124}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Non-conservative problems}{133}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}The continuous problem}{133}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Fully implicit scheme}{135}{subsection.5.2.2}
+\contentsline {subsubsection}{Estimates and existence of a solution to the fully implicit scheme}{135}{section*.12}
+\contentsline {subsubsection}{Convergence of the fully implicit scheme}{138}{section*.13}
+\contentsline {subsection}{\numberline {5.2.3}Semi-implicit scheme}{142}{subsection.5.2.3}
+\contentsline {subsubsection}{Estimates and existence of a solution to the semi-implicit scheme}{143}{section*.14}
+\contentsline {subsubsection}{Convergence of the semi-implicit scheme}{144}{section*.15}
+\contentsline {section}{\numberline {5.3}Non-linear time-dependent Leray--Lions type problems}{147}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Model}{147}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Gradient scheme and main results}{148}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}\emph {A priori} estimates}{150}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Proof of the convergence results}{152}{subsection.5.3.4}
+\contentsline {chapter}{\numberline {6}Degenerate parabolic problems}{161}{chapter.6}
+\contentsline {section}{\numberline {6.1}The continuous problem}{162}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Hypotheses and notion of solution}{162}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}A maximal monotone operator viewpoint}{163}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Gradient scheme}{165}{section.6.2}
+\contentsline {section}{\numberline {6.3}Estimates on the approximate solution}{165}{section.6.3}
+\contentsline {section}{\numberline {6.4}A first convergence theorem}{170}{section.6.4}
+\contentsline {section}{\numberline {6.5}Uniform-in-time, strong $L^2$ convergence results}{174}{section.6.5}
+\contentsline {section}{\numberline {6.6}Auxiliary results}{180}{section.6.6}
+\contentsline {section}{\numberline {6.7}Proof of the uniqueness of the solution to the model}{187}{section.6.7}
+\contentsline {part}{Part\ III\hspace {\betweenumberspace }Examples of gradient discretisation methods}{197}{part.3}
+\contentsline {chapter}{\numberline {7}Analysis tools for gradient discretisations}{201}{chapter.7}
+\contentsline {section}{\numberline {7.1}Polytopal tools}{202}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Polytopal meshes}{202}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Operators, norm and regularity factors associated with a polytopal mesh}{205}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Control of a GD by a polytopal toolbox}{207}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Dirichlet boundary conditions}{207}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Neumann and Fourier boundary conditions}{212}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Mixed boundary conditions}{215}{subsection.7.2.3}
+\contentsline {section}{\numberline {7.3}Local linearly exact GDs}{217}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}$\mathbb {P}_0$-exact and $\mathbb {P}_1$-exact reconstructions}{217}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Definition and consistency of local linearly exact GDs for Dirichlet boundary conditions}{222}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}From local to global basis functions, and matrix assembly}{227}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}Barycentric condensation}{228}{subsection.7.3.4}
+\contentsline {subsection}{\numberline {7.3.5}Mass lumping}{234}{subsection.7.3.5}
+\contentsline {subsection}{\numberline {7.3.6}Non-homogeneous Dirichlet, Neumann and Fourier boundary conditions}{238}{subsection.7.3.6}
+\contentsline {subsubsection}{Non-homogeneous Dirichlet boundary conditions}{238}{section*.16}
+\contentsline {paragraph}{LLE gradient discretisation}{238}{section*.17}
+\contentsline {paragraph}{Barycentric condensation}{240}{section*.18}
+\contentsline {paragraph}{Mass-lumping}{240}{section*.19}
+\contentsline {subsubsection}{Neumann boundary conditions}{240}{section*.20}
+\contentsline {paragraph}{LLE gradient discretisation}{240}{section*.21}
+\contentsline {paragraph}{Barycentric condensation}{241}{section*.22}
+\contentsline {paragraph}{Mass-lumping}{241}{section*.23}
+\contentsline {subsubsection}{Fourier boundary conditions}{242}{section*.24}
+\contentsline {paragraph}{LLE gradient discretisation}{242}{section*.25}
+\contentsline {paragraph}{Barycentric condensation}{243}{section*.26}
+\contentsline {paragraph}{Mass-lumping}{243}{section*.27}
+\contentsline {section}{\numberline {7.4}$W^{2,p}$ estimate of $S_{\mathcal D}$ for local linearly exact GDs}{243}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Functional estimates in $W^{2,p}$}{243}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Application to local linearly exact GDs}{249}{subsection.7.4.2}
+\contentsline {section}{\numberline {7.5}Further topics on LLE GDs}{255}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}LLE GDs with generalised discrete unknowns}{255}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Non-linearly exact barycentric condensation}{256}{subsection.7.5.2}
+\contentsline {chapter}{\numberline {8}Conforming approximations}{259}{chapter.8}
+\contentsline {section}{\numberline {8.1}Conforming Galerkin methods}{259}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Homogeneous Dirichlet boundary conditions}{259}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Non-homogeneous Neumann boundary conditions}{260}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}$\mathbb {P}_k$ finite elements for homogeneous Dirichlet boundary conditions}{261}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Definition of $\mathbb {P}_k$ gradient discretisations}{261}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Properties of $\mathbb {P}_k$ gradient discretisations}{265}{subsection.8.2.2}
+\contentsline {section}{\numberline {8.3}$\mathbb {P}_k$ FE for non-homogeneous Dirichlet, Neumann and Fourier BCs}{268}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Non-homogeneous Dirichlet conditions}{268}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Neumann boundary conditions}{269}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Fourier conditions}{270}{subsection.8.3.3}
+\contentsline {section}{\numberline {8.4}Mass-lumped $\mathbb {P}_1$ finite elements}{270}{section.8.4}
+\contentsline {section}{\numberline {8.5}Vertex approximate gradient (VAG) methods}{273}{section.8.5}
+\contentsline {chapter}{\numberline {9}Non-conforming finite element methods}{281}{chapter.9}
+\contentsline {section}{\numberline {9.1}Non-conforming finite element methods for homogeneous Dirichlet BCs}{281}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Abstract framework}{281}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}GDM formulation of abstract non-conforming finite element methods}{286}{subsection.9.1.2}
+\contentsline {section}{\numberline {9.2}$\mathbb {P}_k$ NCFE GDs for homogeneous Dirichlet BCs}{287}{section.9.2}
+\contentsline {section}{\numberline {9.3}Non-conforming $\mathbb {P}_1$ FE for homogeneous Dirichlet BCs}{291}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Definition of the non-conforming $\mathbb {P}_1$ gradient discretisation}{291}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Estimate on $S_{\mathcal D}$ for the non-conforming $\mathbb {P}_1$ LLE gradient discretisation}{293}{subsection.9.3.2}
+\contentsline {section}{\numberline {9.4}Non-conforming $\mathbb {P}_1$ methods for Neumann and Fourier BCs}{295}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Neumann boundary conditions}{295}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Fourier boundary conditions}{297}{subsection.9.4.2}
+\contentsline {section}{\numberline {9.5}Non-conforming $\mathbb {P}_1$ FE for non-homogeneous Dirichlet BCs}{297}{section.9.5}
+\contentsline {section}{\numberline {9.6}Mass-lumped non-conforming $\mathbb {P}_1$ gradient discretisation}{298}{section.9.6}
+\contentsline {chapter}{\numberline {10}$H_{{\mathop {\rm div}}}$ conforming GDs from mixed finite element methods}{301}{chapter.10}
+\contentsline {section}{\numberline {10.1}Mixed finite element schemes}{301}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Presentation and error estimate}{301}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Construction and analysis of a mixed finite element GD}{302}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}The particular case of the $\mathbb {RT}_k$ mixed finite element}{305}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}$\mathbb {RT}_k$ mixed finite element gradient discretisation}{305}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Gradient discretisation from the $\mathbb {RT}_k$ hybrid mixed finite element formulation}{313}{subsection.10.2.2}
+\contentsline {chapter}{\numberline {11}Discontinuous Galerkin methods}{319}{chapter.11}
+\contentsline {section}{\numberline {11.1}Discontinuous Galerkin gradient discretisation}{319}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}Definition of the DGGD}{319}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}Link with the symmetric interior penalty discontinuous Galerkin (SIPG) method}{322}{subsection.11.1.2}
+\contentsline {section}{\numberline {11.2}Mathematical properties of DG gradient discretisations}{325}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Preliminary results}{325}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Properties of DGGDs}{330}{subsection.11.2.2}
+\contentsline {section}{\numberline {11.3}Average DG gradient discretisation}{334}{section.11.3}
+\contentsline {chapter}{\numberline {12}The multi-point flux approximation MPFA-O scheme}{337}{chapter.12}
+\contentsline {section}{\numberline {12.1}MPFA methods, Dirichlet boundary conditions}{337}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Definition of the MPFA gradient discretisation}{337}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Preliminary lemmas}{340}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Properties of the MPFA-O gradient discretisation}{343}{subsection.12.1.3}
+\contentsline {section}{\numberline {12.2}MPFA-O methods, Neumann and Fourier boundary conditions}{344}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}Neumann boundary conditions}{344}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}Fourier boundary conditions}{345}{subsection.12.2.2}
+\contentsline {chapter}{\numberline {13}Hybrid mimetic mixed schemes}{347}{chapter.13}
+\contentsline {section}{\numberline {13.1}HMM methods for Dirichlet boundary conditions}{348}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}Definition of HMM gradient discretisations}{348}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.2}Preliminary lemmas}{354}{subsection.13.1.2}
+\contentsline {subsection}{\numberline {13.1.3}Properties of HMM gradient discretisations}{357}{subsection.13.1.3}
+\contentsline {section}{\numberline {13.2}HMM methods, Neumann and Fourier boundary conditions}{360}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Neumann boundary conditions}{360}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}Fourier boundary conditions}{361}{subsection.13.2.2}
+\contentsline {section}{\numberline {13.3}HMM fluxes and link with the two-point finite volume method}{361}{section.13.3}
+\contentsline {section}{\numberline {13.4}A cell-centred variant of HMM schemes on $\Delta $-admissible meshes}{364}{section.13.4}
+\contentsline {section}{\numberline {13.5}The harmonic averaging points for heterogeneous domains}{364}{section.13.5}
+\contentsline {subsection}{\numberline {13.5.1}Harmonic interpolation coefficients}{365}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.2}Construction of interpolation families}{366}{subsection.13.5.2}
+\contentsline {chapter}{\numberline {14}Nodal mimetic finite difference methods}{371}{chapter.14}
+\contentsline {section}{\numberline {14.1}Definition and properties of nMFD gradient discretisations}{371}{section.14.1}
+\contentsline {subsection}{\numberline {14.1.1}Preliminary lemmas}{379}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.2}Properties of nMFD gradient discretisations}{383}{subsection.14.1.2}
+\contentsline {section}{\numberline {14.2}Link with discrete duality finite volume methods (DDFV)}{384}{section.14.2}
+\contentsline {part}{Part\ IV\hspace {\betweenumberspace }Appendix}{389}{part.4}
+\contentsline {chapter}{\numberline {A}Gradient discretisations -- abstract setting}{393}{appendix.A}
+\contentsline {section}{\numberline {A.1}Continuous abstract setting}{393}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Homogeneous Dirichlet BCs}{395}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Homogeneous Neumann BCs}{395}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Non-homogeneous Neumann BCs}{396}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Fourier BCs}{396}{subsection.A.1.4}
+\contentsline {section}{\numberline {A.2}Gradient discretisation in the abstract setting}{397}{section.A.2}
+\contentsline {chapter}{\numberline {B}Discrete functional analysis}{405}{appendix.B}
+\contentsline {section}{\numberline {B.1}Preliminary results}{405}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}Geometrical properties of cells}{406}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}Interpolant on $X_{\mathfrak {T}}$}{410}{subsection.B.1.2}
+\contentsline {subsection}{\numberline {B.1.3}Approximation properties of $\overline {\nabla }_{\mathfrak {T}}$}{415}{subsection.B.1.3}
+\contentsline {section}{\numberline {B.2}Discrete functional analysis for Dirichlet boundary conditions}{418}{section.B.2}
+\contentsline {subsection}{\numberline {B.2.1}Discrete Sobolev embeddings}{418}{subsection.B.2.1}
+\contentsline {subsection}{\numberline {B.2.2}Compactness of $\Pi _{\mathfrak {T}}$}{422}{subsection.B.2.2}
+\contentsline {section}{\numberline {B.3}Discrete functional analysis for Neumann and Fourier BCs}{424}{section.B.3}
+\contentsline {subsection}{\numberline {B.3.1}Estimates involving the reconstructed trace}{424}{subsection.B.3.1}
+\contentsline {subsection}{\numberline {B.3.2}Discrete Sobolev embeddings}{431}{subsection.B.3.2}
+\contentsline {subsection}{\numberline {B.3.3}Compactness of $\Pi _{\mathfrak {T}}$ and $\mathbb {T}_{\mathfrak {T}}$}{433}{subsection.B.3.3}
+\contentsline {section}{\numberline {B.4}Discrete functional analysis for mixed boundary condition}{435}{section.B.4}
+\contentsline {subsection}{\numberline {B.4.1}Discrete Sobolev embeddings}{435}{subsection.B.4.1}
+\contentsline {subsection}{\numberline {B.4.2}Compactness of $\Pi _{\mathfrak {T}}$ and $\mathbb {T}_{{\mathfrak {T}}}$}{438}{subsection.B.4.2}
+\contentsline {chapter}{\numberline {C}Discrete functional analysis for time-dependent problems}{439}{appendix.C}
+\contentsline {section}{\numberline {C.1}Averaged-in-time compactness results}{439}{section.C.1}
+\contentsline {section}{\numberline {C.2}Uniform-in-time compactness}{449}{section.C.2}
+\contentsline {chapter}{\numberline {D}Technical results}{457}{appendix.D}
+\contentsline {section}{\numberline {D.1}Standard notations, inequalities and relations}{457}{section.D.1}
+\contentsline {subsection}{\numberline {D.1.1}$\mathbb R^d$ and measures}{457}{subsection.D.1.1}
+\contentsline {subsection}{\numberline {D.1.2}Lebesgue and Sobolev spaces}{457}{subsection.D.1.2}
+\contentsline {subsection}{\numberline {D.1.3}H\"older inequalities}{458}{subsection.D.1.3}
+\contentsline {subsection}{\numberline {D.1.4}Young inequality}{459}{subsection.D.1.4}
+\contentsline {subsection}{\numberline {D.1.5}Jensen inequality}{460}{subsection.D.1.5}
+\contentsline {subsection}{\numberline {D.1.6}Power of sums inequality}{460}{subsection.D.1.6}
+\contentsline {subsection}{\numberline {D.1.7}Discrete integration-by-parts (summation-by-parts)}{460}{subsection.D.1.7}
+\contentsline {section}{\numberline {D.2}Topological degree}{462}{section.D.2}
+\contentsline {section}{\numberline {D.3}Derivation and convergence in the sense of distributions}{462}{section.D.3}
+\contentsline {section}{\numberline {D.4}Weak and strong convergence results}{464}{section.D.4}
+\contentsline {section}{\numberline {D.5}Minty trick and convexity inequality}{465}{section.D.5}
+\contentsline {chapter}{\numberline {E}Some numerical examples}{469}{appendix.E}
+\contentsline {section}{\numberline {E.1}A 3D elliptic problem}{469}{section.E.1}
+\contentsline {section}{\numberline {E.2}ADGGD for the $p-$Laplace problem}{472}{section.E.2}
+\contentsline {subsection}{\numberline {E.2.1}The one-dimensional case}{472}{subsection.E.2.1}
+\contentsline {subsection}{\numberline {E.2.2}The two-dimensional case}{473}{subsection.E.2.2}
+\contentsline {section}{\numberline {E.3}An example of the application of the GDM to a degenerate parabolic problem}{475}{section.E.3}
+\contentsline {chapter}{References}{481}{appendix*.28}
+\contentsline {chapter}{Abbreviations}{490}{section*.29}
+\contentsline {chapter}{Notations}{492}{section*.30}

@@ -1,0 +1,78 @@
+\indexentry {Miscellaneous!Delta admissible mesh@{$\protect \mbox {$\Delta -$admissible mesh}$}|hyperpage}{x}
+\indexentry {GD operators and indicators!CD@{$\protect C_\disc $}|hyperpage}{18}
+\indexentry {GD operators and indicators!SD@{$\protect S_\disc $}|hyperpage}{19}
+\indexentry {Functional spaces!hdiv@{$\protect H_{\dive }(\O )$}|hyperpage}{20}
+\indexentry {Functional spaces!wdiv@{$\protect \Wdivq (\O )$}|hyperpage}{20}
+\indexentry {GD operators and indicators!SD@{$\protect W_\disc $}|hyperpage}{20}
+\indexentry {GD operators and indicators!SD@{$\protect S_\disc $}|hyperpage}{59}
+\indexentry {GD operators and indicators!SD@{$\protect C_\disc $}|hyperpage}{66}
+\indexentry {GD operators and indicators!SD@{$\protect S_\disc $}|hyperpage}{66}
+\indexentry {GD operators and indicators!SD@{$\protect W_\disc $}|hyperpage}{67}
+\indexentry {GD operators and indicators!SD@{$\protect C_\disc $}|hyperpage}{70}
+\indexentry {Functional spaces!wdivpdr@{$\protect \Wdivpprimepart (\O )$}|hyperpage}{71}
+\indexentry {GD operators and indicators!SD@{$\protect W_\disc $}|hyperpage}{71}
+\indexentry {Functional spaces!honestar@{$\protect H^1_\star (\O )$}|hyperpage}{77}
+\indexentry {GD operators and indicators!SD@{$\protect S_\disc $}|hyperpage}{86}
+\indexentry {GD operators and indicators!SD@{$\protect C_\disc $}|hyperpage}{90}
+\indexentry {GD operators and indicators!SD@{$\protect S_\disc $}|hyperpage}{90}
+\indexentry {Functional spaces!wdivpgn@{$\protect \WdivpprimeGN (\O )$}|hyperpage}{90}
+\indexentry {GD operators and indicators!SD@{$\protect W_\disc $}|hyperpage}{91}
+\indexentry {GDM notions!xdgen@{$\protect \XDgen $}|hyperpage}{97}
+\indexentry {Functional spaces!Wpgen@{$\protect \Wpgen $}|hyperpage}{97}
+\indexentry {GDM notions!discT@{$\protect \disc _T$}|hyperpage}{98}
+\indexentry {GD operators and indicators!interpdisc@{$\protect \interp _\disc $}|hyperpage}{98}
+\indexentry {Miscellaneous!vtheta@{$\protect v_{\theta }$}|hyperpage}{98}
+\indexentry {GD operators and indicators!piDT@{$\protect \PiDt $}|hyperpage}{98}
+\indexentry {GD operators and indicators!gradDT@{$\protect \gradDt $}|hyperpage}{98}
+\indexentry {GD operators and indicators!trDT@{$\protect \trDt $}|hyperpage}{98}
+\indexentry {GD operators and indicators!deltatdisc@{$\protect \delta _{\disc }$}|hyperpage}{98}
+\indexentry {Polytopal tools!M@{$\protect \mesh $}|hyperpage}{203}
+\indexentry {Polytopal tools!mk@{$\protect \mcv $}|hyperpage}{203}
+\indexentry {Polytopal tools!E@{$\protect \edges $}|hyperpage}{203}
+\indexentry {Polytopal tools!msigma@{$\protect \medge $}|hyperpage}{203}
+\indexentry {Polytopal tools!ek@{$\protect \edgescv $}|hyperpage}{203}
+\indexentry {Polytopal tools!dk@{$\protect \dr K$}|hyperpage}{203}
+\indexentry {Polytopal tools!msigma@{$\protect \mesh _\edge $}|hyperpage}{203}
+\indexentry {Polytopal tools!nksigma@{$\protect \ncvedge $}|hyperpage}{203}
+\indexentry {Polytopal tools!nk@{$\protect \Ncv $}|hyperpage}{203}
+\indexentry {Polytopal tools!p@{$\protect \centers $}|hyperpage}{203}
+\indexentry {Polytopal tools!xk@{$\protect \xcv $}|hyperpage}{203}
+\indexentry {Polytopal tools!xs@{$\protect \xedge $}|hyperpage}{204}
+\indexentry {Polytopal tools!dksigma@{$\protect \dcvedge $}|hyperpage}{204}
+\indexentry {Polytopal tools!DKsigma@{$\protect D_{K,\edge }$}|hyperpage}{204}
+\indexentry {Polytopal tools!Dsigma@{$\protect D_{\edge }$}|hyperpage}{204}
+\indexentry {Polytopal tools!hm@{$\protect \sizemesh $}|hyperpage}{204}
+\indexentry {Polytopal tools!polyd@{$\protect \polyd $}|hyperpage}{205}
+\indexentry {Polytopal tools!xpolyd@{$\protect X_\polyd $}|hyperpage}{205}
+\indexentry {Polytopal tools!xpolydz@{$\protect X_{\polyd ,0}$}|hyperpage}{205}
+\indexentry {Polytopal tools!pipolyd@{$\protect \Pi _{\polyd }$}|hyperpage}{206}
+\indexentry {Polytopal tools!trpolyd@{$\protect \trrec _{\polyd }$}|hyperpage}{206}
+\indexentry {Polytopal tools!gradpolyd@{$\protect \grad _{\polyd }$}|hyperpage}{206}
+\indexentry {Norms and semi-norms!normzsnormpolydp@{$\protect \snorm {\cdot }{\polyd ,p}$}|hyperpage}{206}
+\indexentry {Polytopal tools!thetapolyd@{$\protect \theta _\polyd $}|hyperpage}{206}
+\indexentry {Polytopal tools!etapolyd@{$\protect \eta _\polyd $}|hyperpage}{206}
+\indexentry {Polytopal tools!kappapolyd@{$\protect \kappa _\polyd $}|hyperpage}{207}
+\indexentry {Polytopal tools!omeganabla@{$\protect \omega ^\nabla (\disc ,\polyd ,\emb )$}|hyperpage}{208}
+\indexentry {Polytopal tools!omegapi@{$\protect \omega ^{\Pi }(\disc ,\polyd ,\emb )$}|hyperpage}{208}
+\indexentry {Norms and semi-norms!normpik@{$\protect \norm {\pr _K}{p}$}|hyperpage}{217}
+\indexentry {Norms and semi-norms!normgk@{$\protect \norm {\gr _K}{p}$}|hyperpage}{219}
+\indexentry {GDM notions!reglle@{$\protect \regLLE (\disc )$}|hyperpage}{223}
+\indexentry {Functional spaces!polyl@{$\protect \Pfe _\ell $}|hyperpage}{225}
+\indexentry {GDM notions!bcdisc@{$\protect \bcdisc $}|hyperpage}{229}
+\indexentry {GDM notions!bcI@{$\protect \bcI $}|hyperpage}{229}
+\indexentry {GDM notions!regbc@{$\protect \regbc (\bcdisc )$}|hyperpage}{229}
+\indexentry {GD operators and indicators!pidiscml@{$\protect \Pi _\disc ^{ML}$}|hyperpage}{234}
+\indexentry {GD operators and indicators!SD@{$\protect C_\disc $}|hyperpage}{398}
+\indexentry {GD operators and indicators!SD@{$\protect W_\disc $}|hyperpage}{398}
+\indexentry {GD operators and indicators!SD@{$\protect S_\disc $}|hyperpage}{401}
+\indexentry {Norms and semi-norms!normbv@{$\protect \norm {w}{BV(\R ^d)}$}|hyperpage}{418}
+\indexentry {Functional spaces!Lp@{$\protect L^p(\Omega )$}|hyperpage}{457}
+\indexentry {Norms and semi-norms!normLp@{$\protect \norm {u}{L^p(\Omega )}$}|hyperpage}{458}
+\indexentry {Functional spaces!wkq@{$\protect W^{k,q}(\O )$}|hyperpage}{458}
+\indexentry {Functional spaces!wkqz@{$\protect W^{k,q}_0(\O )$}|hyperpage}{458}
+\indexentry {Functional spaces!Cinftyc@{$\protect C^{\infty }_c(\O )$}|hyperpage}{458}
+\indexentry {Functional spaces!wdiv@{$\protect \Wdivq (\O )$}|hyperpage}{458}
+\indexentry {Norms and semi-norms!normwdivq@{$\protect \norm {\bvarphi }{\Wdivq (\O )}$}|hyperpage}{458}
+\indexentry {Functional spaces!hk@{$\protect H^{k}(\O )$}|hyperpage}{458}
+\indexentry {Functional spaces!hkz@{$\protect H^{k}_0(\O )$}|hyperpage}{458}
+\indexentry {Functional spaces!hdiv@{$\protect H_{\dive }(\O )$}|hyperpage}{458}

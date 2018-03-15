@@ -1,0 +1,524 @@
+\indexentry {gradient scheme|hyperpage}{ix}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{ix}
+\indexentry {Stefan problem|hyperpage}{x}
+\indexentry {Richards problem|hyperpage}{x}
+\indexentry {heterogeneous medium|hyperpage}{x}
+\indexentry {finite volume|hyperpage}{x}
+\indexentry {finite volume!MPFA|hyperpage}{x}
+\indexentry {finite volume|hyperpage}{x}
+\indexentry {Delta@$\Delta $-admissible mesh|hyperpage}{x}
+\indexentry {heterogeneous medium|hyperpage}{xi}
+\indexentry {finite volume!discrete duality (DDFV)|hyperpage}{xi}
+\indexentry {DDFV|hyperindexformat{\see {finite volume}}}{xi}
+\indexentry {SUSHI|hyperpage}{xi}
+\indexentry {mimetic finite difference (MFD)|hyperpage}{xi}
+\indexentry {finite volume!MPFA|hyperpage}{xii}
+\indexentry {finite volume!discrete duality (DDFV)|hyperpage}{xii}
+\indexentry {hybrid mimetic mixed (HMM)|hyperpage}{xii}
+\indexentry {mimetic finite difference (MFD)!hybrid|hyperpage}{xii}
+\indexentry {SUSHI|hyperpage}{xii}
+\indexentry {finite volume!mixed |hyperpage}{xii}
+\indexentry {mimetic finite difference (MFD)!nodal|hyperpage}{xii}
+\indexentry {virtual element methods (VEM)|hyperpage}{xii}
+\indexentry {hybrid high order (HHO)|hyperpage}{xii}
+\indexentry {compatible discrete operator (CDO)|hyperpage}{xii}
+\indexentry {Richards problem|hyperpage}{xiii}
+\indexentry {Stefan problem|hyperpage}{xiii}
+\indexentry {Galerkin method|hyperpage}{3}
+\indexentry {approximation space|hyperpage}{3}
+\indexentry {Galerkin method!conforming|hyperpage}{4}
+\indexentry {C\'ea's lemma|hyperpage}{4}
+\indexentry {approximation space|hyperpage}{4}
+\indexentry {conforming method|hyperpage}{4}
+\indexentry {approximation space|hyperpage}{5}
+\indexentry {finite element!non-conforming|hyperpage}{5}
+\indexentry {broken!gradient|hyperpage}{5}
+\indexentry {second Strang lemma|hyperpage}{6}
+\indexentry {finite volume!TPFA|hyperpage}{7}
+\indexentry {finite volume|hyperpage}{7}
+\indexentry {finite volume!TPFA|hyperpage}{8}
+\indexentry {finite volume!TPFA|hyperpage}{9}
+\indexentry {super-admissible|hyperpage}{10}
+\indexentry {broken!gradient|hyperpage}{11}
+\indexentry {conformity defect|hyperpage}{12}
+\indexentry {discrete Poincar\'e inequality|hyperpage}{12}
+\indexentry {gradient scheme|hyperpage}{17}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{18}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{18}
+\indexentry {gradient discretisation!Dirichlet BCs|hyperpage}{18}
+\indexentry {stability|hyperpage}{18}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{18}
+\indexentry {coercivity!definition|hyperpage}{18}
+\indexentry {discrete Poincar\'e inequality|hyperpage}{19}
+\indexentry {consistency|hyperpage}{19}
+\indexentry {GD-consistency|hyperpage}{19}
+\indexentry {interpolant|hyperpage}{19}
+\indexentry {limit-conformity|hyperpage}{20}
+\indexentry {conformity defect|hyperpage}{20}
+\indexentry {limit-conformity|hyperpage}{21}
+\indexentry {limit-conformity|hyperpage}{21}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{22}
+\indexentry {compactness!definition|hyperpage}{22}
+\indexentry {compactness!implies coercivity|hyperpage}{23}
+\indexentry {piecewise constant reconstruction|hyperpage}{23}
+\indexentry {consistency!aaaaa@\igobble |hyperindexformat{\seealso {GD-consistency}}}{24}
+\indexentry {GD-consistency|hyperpage}{24}
+\indexentry {limit-conformity|hyperpage}{24}
+\indexentry {compactness|hyperpage}{24}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{25}
+\indexentry {regularity of the limit!Dirichlet BCs|hyperpage}{25}
+\indexentry {GD-consistency|hyperpage}{25}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{26}
+\indexentry {GD-consistency|hyperpage}{27}
+\indexentry {space size of a GD!definition|hyperpage}{29}
+\indexentry {higher order|hyperpage}{30}
+\indexentry {GD-consistency|hyperpage}{30}
+\indexentry {gradient scheme!linear elliptic problem|hyperpage}{32}
+\indexentry {elliptic problem|hyperpage}{32}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{33}
+\indexentry {consistency defect|hyperpage}{33}
+\indexentry {conformity defect|hyperpage}{33}
+\indexentry {second Strang lemma|hyperpage}{33}
+\indexentry {error estimate!Dirichlet BCs|hyperpage}{34}
+\indexentry {consistency defect|hyperpage}{34}
+\indexentry {conformity defect|hyperpage}{34}
+\indexentry {error estimate|hyperpage}{34}
+\indexentry {higher order|hyperpage}{35}
+\indexentry {higher order|hyperpage}{35}
+\indexentry {mimetic finite difference (MFD)|hyperpage}{35}
+\indexentry {super-convergence|hyperpage}{35}
+\indexentry {GD-consistency|hyperpage}{37}
+\indexentry {limit-conformity|hyperpage}{37}
+\indexentry {consistency|hyperpage}{38}
+\indexentry {stability|hyperpage}{38}
+\indexentry {finite difference|hyperpage}{38}
+\indexentry {finite difference!aaaaa@\igobble |hyperindexformat{\seealso {mimetic finite difference}}}{38}
+\indexentry {consistency|hyperpage}{39}
+\indexentry {interpolant|hyperpage}{39}
+\indexentry {interpolation error|hyperpage}{39}
+\indexentry {consistency|hyperpage}{39}
+\indexentry {interpolant|hyperpage}{39}
+\indexentry {stability|hyperpage}{40}
+\indexentry {stability!finite element|hyperpage}{40}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{41}
+\indexentry {heterogeneous medium|hyperpage}{41}
+\indexentry {Caratheodory function|hyperpage}{41}
+\indexentry {Dirichlet boundary condition!homogeneous|hyperpage}{41}
+\indexentry {quasi-linear problem|hyperpage}{41}
+\indexentry {fixed point method|hyperpage}{42}
+\indexentry {Newton method|hyperpage}{42}
+\indexentry {Brouwer fixed point theorem|hyperpage}{43}
+\indexentry {gradient scheme!plapl@$p$-Laplace problem|hyperpage}{45}
+\indexentry {higher order|hyperpage}{45}
+\indexentry {plapl@$p$-Laplace problem|hyperpage}{45}
+\indexentry {gradient scheme!plapl@$p$-Laplace problem|hyperpage}{46}
+\indexentry {error estimate!plapl@$p$-Laplace problem|hyperpage}{47}
+\indexentry {gradient scheme!error estimate|hyperpage}{47}
+\indexentry {gradient scheme!Leray-Lions problem|hyperpage}{52}
+\indexentry {gradient scheme!Leray-Lions problem|hyperpage}{54}
+\indexentry {Leray--Lions type problem|hyperpage}{54}
+\indexentry {trace operator|hyperpage}{58}
+\indexentry {gradient discretisation!Dirichlet BCs|hyperpage}{58}
+\indexentry {GD-consistency|hyperpage}{59}
+\indexentry {interpolant|hyperpage}{60}
+\indexentry {regularity of the limit!Dirichlet BCs|hyperpage}{61}
+\indexentry {gradient scheme!linear elliptic problem|hyperpage}{61}
+\indexentry {gradient scheme!linear elliptic problem|hyperpage}{62}
+\indexentry {error estimate!Dirichlet BCs|hyperpage}{62}
+\indexentry {gradient scheme!quasi-linear problem|hyperpage}{63}
+\indexentry {Caratheodory function|hyperpage}{63}
+\indexentry {gradient discretisation!Neumann BCs|hyperpage}{65}
+\indexentry {coercivity!definition|hyperpage}{66}
+\indexentry {GD-consistency|hyperpage}{66}
+\indexentry {GD-consistency|hyperpage}{66}
+\indexentry {limit-conformity|hyperpage}{67}
+\indexentry {compactness!definition|hyperpage}{67}
+\indexentry {limit-conformity|hyperpage}{68}
+\indexentry {compactness!implies coercivity|hyperpage}{68}
+\indexentry {segment condition|hyperpage}{68}
+\indexentry {gradient discretisation!Neumann BCs|hyperpage}{69}
+\indexentry {coercivity!definition|hyperpage}{70}
+\indexentry {limit-conformity|hyperpage}{71}
+\indexentry {trace operator|hyperpage}{71}
+\indexentry {compactness!definition|hyperpage}{71}
+\indexentry {limit-conformity|hyperpage}{72}
+\indexentry {compactness!implies coercivity|hyperpage}{72}
+\indexentry {regularity of the limit!Neumann BCs|hyperpage}{72}
+\indexentry {gradient scheme!error estimate|hyperpage}{73}
+\indexentry {trace operator|hyperpage}{74}
+\indexentry {trace operator|hyperpage}{74}
+\indexentry {density of smooth functions|hyperpage}{75}
+\indexentry {error estimate!Neumann BCs|hyperpage}{79}
+\indexentry {error estimate!on the trace, Fourier BCs|hyperpage}{79}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{80}
+\indexentry {Caratheodory function|hyperpage}{81}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{81}
+\indexentry {Brouwer fixed point theorem|hyperpage}{82}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{84}
+\indexentry {Brouwer fixed point theorem|hyperpage}{84}
+\indexentry {interpolant|hyperpage}{85}
+\indexentry {gradient discretisation!Fourier BCs|hyperpage}{85}
+\indexentry {GD-consistency|hyperpage}{86}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{87}
+\indexentry {Caratheodory function|hyperpage}{87}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{87}
+\indexentry {gradient scheme!quasi-linear elliptic problem|hyperpage}{88}
+\indexentry {Brouwer fixed point theorem|hyperpage}{88}
+\indexentry {gradient discretisation!mixed BCs|hyperpage}{89}
+\indexentry {coercivity!definition|hyperpage}{90}
+\indexentry {GD-consistency|hyperpage}{90}
+\indexentry {limit-conformity|hyperpage}{91}
+\indexentry {compactness!definition|hyperpage}{91}
+\indexentry {regularity of the limit!mixed BCs|hyperpage}{92}
+\indexentry {gradient scheme!linear elliptic problem|hyperpage}{93}
+\indexentry {error estimate!mixed BCs|hyperpage}{94}
+\indexentry {gradient scheme!error estimate|hyperpage}{94}
+\indexentry {thetascheme@$\theta $-scheme|hyperpage}{97}
+\indexentry {Euler scheme|hyperpage}{97}
+\indexentry {Crank-Nicolson scheme|hyperpage}{97}
+\indexentry {gradient discretisation!time-dependent problem|hyperpage}{98}
+\indexentry {space--time GD|hyperpage}{98}
+\indexentry {GD-consistency|hyperpage}{98}
+\indexentry {interpolation of space--time functions|hyperpage}{102}
+\indexentry {dual norm for space--time GD|hyperpage}{106}
+\indexentry {Aubin--Simon theorem|hyperpage}{107}
+\indexentry {discrete compactness in $H^{-1}(\O )$|hyperpage}{109}
+\indexentry {weak-strong!space--time convergence|hyperpage}{111}
+\indexentry {convergence!space--time weak-strong|hyperpage}{111}
+\indexentry {Arzel\`a--Ascoli theorem|hyperpage}{115}
+\indexentry {parabolic problem|hyperpage}{118}
+\indexentry {quasi-linear problem|hyperpage}{118}
+\indexentry {Caratheodory function|hyperpage}{118}
+\indexentry {density of smooth functions|hyperpage}{118}
+\indexentry {gradient scheme!quasi-linear parabolic problem|hyperpage}{119}
+\indexentry {error estimate!parabolic problem|hyperpage}{120}
+\indexentry {linear spatial interpolator|hyperpage}{120}
+\indexentry {parabolic problem!non-conservative|hyperpage}{133}
+\indexentry {Caratheodory function|hyperpage}{133}
+\indexentry {fully implicit scheme|hyperpage}{135}
+\indexentry {semi-implicit scheme|hyperpage}{142}
+\indexentry {density of smooth functions|hyperpage}{148}
+\indexentry {gradient scheme!quasi-linear parabolic problem|hyperpage}{148}
+\indexentry {Leray--Lions type problem|hyperpage}{149}
+\indexentry {parabolic problem!degenerate|hyperpage}{161}
+\indexentry {Richards problem|hyperpage}{161}
+\indexentry {heterogeneous medium|hyperpage}{161}
+\indexentry {Stefan problem|hyperpage}{161}
+\indexentry {Richards problem|hyperpage}{161}
+\indexentry {Stefan problem|hyperpage}{161}
+\indexentry {maximal monotone operator|hyperpage}{163}
+\indexentry {resolvent|hyperpage}{163}
+\indexentry {gradient scheme!degenerate parabolic problem|hyperpage}{165}
+\indexentry {density of smooth functions|hyperpage}{174}
+\indexentry {convergence!uniform in time strong|hyperpage}{174}
+\indexentry {Stefan problem|hyperpage}{176}
+\indexentry {Richards problem|hyperpage}{176}
+\indexentry {Stefan problem|hyperpage}{187}
+\indexentry {Richards problem|hyperpage}{187}
+\indexentry {Stefan problem|hyperpage}{187}
+\indexentry {finite volume|hyperpage}{199}
+\indexentry {finite volume!discrete duality --!CeVeFE|hyperpage}{199}
+\indexentry {CeVeFE|hyperindexformat{\see {finite volume}}}{199}
+\indexentry {Stefan problem|hyperpage}{199}
+\indexentry {Richards problem|hyperpage}{199}
+\indexentry {gradient scheme|hyperpage}{201}
+\indexentry {local linearly exact (LLE) GD|hyperpage}{202}
+\indexentry {barycentric condensation|hyperpage}{202}
+\indexentry {condensation!barycentric|hyperpage}{202}
+\indexentry {mass lumping|hyperpage}{202}
+\indexentry {heterogeneous medium|hyperpage}{202}
+\indexentry {polytope|hyperpage}{202}
+\indexentry {polytope|hyperpage}{203}
+\indexentry {polytopal!subset|hyperpage}{203}
+\indexentry {polytopal!subset|hyperpage}{203}
+\indexentry {polytopal!mesh|hyperpage}{203}
+\indexentry {broken!gradient|hyperpage}{207}
+\indexentry {polytopal!toolbox|hyperpage}{207}
+\indexentry {polytopal!toolbox|hyperpage}{208}
+\indexentry {polytopal!toolbox|hyperpage}{208}
+\indexentry {control of a GD by a polytopal toolbox!definition|hyperpage}{208}
+\indexentry {control of a GD by a polytopal toolbox!of specific schemes|hyperpage}{209}
+\indexentry {conformity defect!estimate|hyperpage}{209}
+\indexentry {polytopal!toolbox|hyperpage}{212}
+\indexentry {polytopal!toolbox|hyperpage}{212}
+\indexentry {control of a GD by a polytopal toolbox!definition|hyperpage}{213}
+\indexentry {conformity defect!estimate|hyperpage}{213}
+\indexentry {polytopal!toolbox|hyperpage}{215}
+\indexentry {control of a GD by a polytopal toolbox!definition|hyperpage}{216}
+\indexentry {conformity defect!estimate|hyperpage}{216}
+\indexentry {density of smooth functions|hyperpage}{217}
+\indexentry {local linearly exact (LLE) GD|hyperpage}{217}
+\indexentry {interpolant|hyperpage}{218}
+\indexentry {interpolant|hyperpage}{218}
+\indexentry {interpolant|hyperpage}{219}
+\indexentry {GD-consistency!of LLE GDs|hyperpage}{222}
+\indexentry {local linearly exact (LLE) GD|hyperpage}{222}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{223}
+\indexentry {finite volume!MPFA|hyperpage}{224}
+\indexentry {interpolant|hyperpage}{225}
+\indexentry {higher order|hyperpage}{225}
+\indexentry {interpolant|hyperpage}{226}
+\indexentry {barycentric condensation|hyperpage}{228}
+\indexentry {condensation!barycentric|hyperpage}{228}
+\indexentry {condensation!barycentric|hyperpage}{229}
+\indexentry {barycentric condensation|hyperpage}{229}
+\indexentry {barycentric condensation|hyperpage}{229}
+\indexentry {barycentric condensation|hyperpage}{230}
+\indexentry {condensation!barycentric|hyperpage}{230}
+\indexentry {static condensation|hyperpage}{230}
+\indexentry {barycentric condensation|hyperpage}{230}
+\indexentry {condensation!barycentric|hyperpage}{230}
+\indexentry {condensation!static|hyperpage}{230}
+\indexentry {barycentric condensation|hyperpage}{233}
+\indexentry {condensation!barycentric|hyperpage}{233}
+\indexentry {mass lumping|hyperpage}{234}
+\indexentry {mass lumping|hyperpage}{235}
+\indexentry {GD-consistency!of LLE GDs|hyperpage}{239}
+\indexentry {condensation!barycentric|hyperpage}{240}
+\indexentry {barycentric condensation!|hyperpage}{240}
+\indexentry {mass lumping|hyperpage}{240}
+\indexentry {GD-consistency!of LLE GDs|hyperpage}{241}
+\indexentry {condensation!barycentric|hyperpage}{241}
+\indexentry {barycentric condensation!|hyperpage}{241}
+\indexentry {mass lumping|hyperpage}{241}
+\indexentry {GD-consistency!of LLE GDs|hyperpage}{242}
+\indexentry {condensation!barycentric|hyperpage}{243}
+\indexentry {barycentric condensation!|hyperpage}{243}
+\indexentry {mass lumping|hyperpage}{243}
+\indexentry {local linearly exact (LLE) GD|hyperpage}{243}
+\indexentry {density of smooth functions|hyperpage}{248}
+\indexentry {local linearly exact (LLE) GD|hyperpage}{249}
+\indexentry {consistency defect!estimate|hyperpage}{249}
+\indexentry {Sobolev!space!broken|hyperpage}{251}
+\indexentry {broken!space|hyperpage}{251}
+\indexentry {consistency defect!estimate|hyperpage}{251}
+\indexentry {consistency defect!estimate|hyperpage}{252}
+\indexentry {consistency defect!estimate!|hyperpage}{253}
+\indexentry {consistency defect!estimate!|hyperpage}{254}
+\indexentry {consistency defect!estimate|hyperpage}{254}
+\indexentry {barycentric condensation|hyperpage}{256}
+\indexentry {condensation!barycentric|hyperpage}{256}
+\indexentry {heterogeneous medium|hyperpage}{256}
+\indexentry {heterogeneous medium|hyperpage}{256}
+\indexentry {barycentric condensation|hyperpage}{256}
+\indexentry {condensation!barycentric|hyperpage}{256}
+\indexentry {interpolant|hyperpage}{257}
+\indexentry {Galerkin method!conforming|hyperpage}{259}
+\indexentry {conforming method|hyperpage}{259}
+\indexentry {Galerkin method!conforming|hyperpage}{259}
+\indexentry {Galerkin method!conforming|hyperpage}{260}
+\indexentry {Galerkin method!conforming|hyperpage}{261}
+\indexentry {finite element!conforming!$\Pfe _k$|hyperpage}{261}
+\indexentry {conforming $\Pfe _k$ LLE gradient discretisation|hyperpage}{261}
+\indexentry {Lagrange interpolation|hyperpage}{262}
+\indexentry {Lagrange interpolation|hyperpage}{263}
+\indexentry {unisolvence|hyperpage}{263}
+\indexentry {error estimate|hyperpage}{267}
+\indexentry {consistency defect!estimate|hyperpage}{267}
+\indexentry {conformity defect!estimate|hyperpage}{267}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{267}
+\indexentry {interpolant|hyperpage}{268}
+\indexentry {Stefan problem|hyperpage}{271}
+\indexentry {Richards problem|hyperpage}{271}
+\indexentry {mass lumping!conforming $\Pfe _1$|hyperpage}{271}
+\indexentry {barycentric dual mesh|hyperpage}{271}
+\indexentry {mass lumping|hyperpage}{272}
+\indexentry {heterogeneous medium|hyperpage}{273}
+\indexentry {heterogeneous medium|hyperpage}{273}
+\indexentry {vertex approximate gradient (VAG)|hyperpage}{273}
+\indexentry {barycentric condensation|hyperpage}{273}
+\indexentry {condensation!barycentric|hyperpage}{273}
+\indexentry {mass lumping|hyperpage}{273}
+\indexentry {barycentric condensation|hyperpage}{274}
+\indexentry {condensation!barycentric|hyperpage}{274}
+\indexentry {vertex approximate gradient (VAG)|hyperpage}{274}
+\indexentry {vertex approximate gradient (VAG)|hyperpage}{275}
+\indexentry {static condensation|hyperpage}{275}
+\indexentry {static condensation|hyperpage}{275}
+\indexentry {condensation!static|hyperpage}{275}
+\indexentry {Lagrange interpolation|hyperpage}{275}
+\indexentry {vertex approximate gradient (VAG)|hyperpage}{276}
+\indexentry {vertex approximate gradient (VAG)|hyperpage}{277}
+\indexentry {consistency defect!estimate|hyperpage}{278}
+\indexentry {conformity defect!estimate|hyperpage}{278}
+\indexentry {broken!gradient|hyperpage}{282}
+\indexentry {broken!space|hyperpage}{282}
+\indexentry {finite element!non-conforming|hyperpage}{285}
+\indexentry {error estimate|hyperpage}{285}
+\indexentry {second Strang lemma|hyperpage}{285}
+\indexentry {finite element!non-conforming|hyperpage}{286}
+\indexentry {consistency defect!estimate|hyperpage}{286}
+\indexentry {conformity defect!estimate|hyperpage}{286}
+\indexentry {consistency defect!estimate|hyperpage}{288}
+\indexentry {conformity defect!estimate|hyperpage}{288}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{288}
+\indexentry {finite element!non-conforming|hyperpage}{291}
+\indexentry {consistency defect!estimate|hyperpage}{294}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{295}
+\indexentry {interpolant|hyperpage}{297}
+\indexentry {interpolant|hyperpage}{297}
+\indexentry {mass lumping!non-conforming $\Pfe _1$|hyperpage}{299}
+\indexentry {mass lumping!non-conforming $\Pfe _1$|hyperpage}{299}
+\indexentry {finite element!mixed |hyperpage}{301}
+\indexentry {mixed finite element (MFE)|hyperindexformat{\see {finite element}}}{302}
+\indexentry {finite element!mixed |hyperpage}{302}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{304}
+\indexentry {limit-conformity!of specific schemes|hyperpage}{304}
+\indexentry {coercivity!of specific schemes|hyperpage}{304}
+\indexentry {finite element!mixed --!Raviart-Thomas|hyperpage}{305}
+\indexentry {Sobolev!space!broken|hyperpage}{306}
+\indexentry {polytopal!toolbox|hyperpage}{307}
+\indexentry {control of a GD by a polytopal toolbox!of specific schemes|hyperpage}{309}
+\indexentry {higher order|hyperpage}{312}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{312}
+\indexentry {consistency defect!estimate|hyperpage}{312}
+\indexentry {conformity defect!estimate|hyperpage}{312}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{312}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{313}
+\indexentry {coercivity!of specific schemes|hyperpage}{313}
+\indexentry {limit-conformity!of specific schemes|hyperpage}{313}
+\indexentry {compactness!of specific schemes|hyperpage}{313}
+\indexentry {finite element!mixed --!Raviart-Thomas|hyperpage}{314}
+\indexentry {mimetic finite difference (MFD)!mixed-hybrid|hyperpage}{315}
+\indexentry {Galerkin discontinuous |hyperindexformat{\ see {discontinuous Galerkin}}}{319}
+\indexentry {discontinuous Galerkin|hyperpage}{319}
+\indexentry {DGGD|hyperindexformat{\see {discontinuous Galerkin}}}{319}
+\indexentry {discontinuous Galerkin!SIPG|hyperpage}{319}
+\indexentry {discontinuous Galerkin|hyperpage}{319}
+\indexentry {discontinuous Galerkin|hyperpage}{320}
+\indexentry {discontinuous Galerkin!SIPG|hyperpage}{322}
+\indexentry {gradient scheme|hyperpage}{322}
+\indexentry {control of a GD by a polytopal toolbox!of specific schemes|hyperpage}{328}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{330}
+\indexentry {coercivity!of specific schemes|hyperpage}{330}
+\indexentry {limit-conformity!of specific schemes|hyperpage}{330}
+\indexentry {compactness!of specific schemes|hyperpage}{330}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{330}
+\indexentry {consistency defect!estimate|hyperpage}{330}
+\indexentry {conformity defect!estimate|hyperpage}{331}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{332}
+\indexentry {MPFA|hyperpage}{337}
+\indexentry {finite volume!MPFA|hyperpage}{337}
+\indexentry {MPFA|hyperpage}{338}
+\indexentry {finite volume!MPFA|hyperpage}{338}
+\indexentry {finite volume|hyperpage}{339}
+\indexentry {finite volume!MPFA|hyperpage}{340}
+\indexentry {finite volume!MPFA|hyperpage}{340}
+\indexentry {control of a GD by a polytopal toolbox!of specific schemes|hyperpage}{342}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{343}
+\indexentry {coercivity!of specific schemes|hyperpage}{343}
+\indexentry {limit-conformity!of specific schemes|hyperpage}{343}
+\indexentry {compactness!of specific schemes|hyperpage}{343}
+\indexentry {conformity defect!estimate|hyperpage}{343}
+\indexentry {consistency defect!estimate|hyperpage}{343}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{344}
+\indexentry {MPFA-O|hyperpage}{344}
+\indexentry {finite volume!MPFA|hyperpage}{344}
+\indexentry {mimetic finite difference (MFD)!hybrid|hyperpage}{347}
+\indexentry {compatible discrete operator (CDO)|hyperpage}{347}
+\indexentry {finite volume!hybrid|hyperpage}{347}
+\indexentry {hybrid finite volume (HFV)|hyperindexformat{\see {finite volume}}}{347}
+\indexentry {SUSHI|hyperpage}{347}
+\indexentry {finite volume!mixed |hyperpage}{347}
+\indexentry {mixed finite volume (MFV)|hyperindexformat{\see {finite volume}}}{347}
+\indexentry {hybrid mimetic finite difference (hMFD)|hyperindexformat{\see {mimetic finite difference}}}{347}
+\indexentry {hybrid mimetic mixed (HMM)|hyperpage}{347}
+\indexentry {hybrid mimetic mixed (HMM)|hyperpage}{347}
+\indexentry {barycentric condensation|hyperpage}{348}
+\indexentry {condensation!barycentric|hyperpage}{348}
+\indexentry {hybrid mimetic mixed (HMM)|hyperpage}{348}
+\indexentry {polytopal!gradient|hyperpage}{349}
+\indexentry {finite volume!hybrid|hyperpage}{349}
+\indexentry {SUSHI|hyperpage}{349}
+\indexentry {static condensation|hyperpage}{353}
+\indexentry {condensation!static|hyperpage}{353}
+\indexentry {control of a GD by a polytopal toolbox!of specific schemes|hyperpage}{357}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{358}
+\indexentry {coercivity!of specific schemes|hyperpage}{358}
+\indexentry {limit-conformity!of specific schemes|hyperpage}{358}
+\indexentry {compactness!of specific schemes|hyperpage}{358}
+\indexentry {conformity defect!estimate|hyperpage}{358}
+\indexentry {consistency defect!estimate|hyperpage}{359}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{359}
+\indexentry {finite volume!TPFA|hyperpage}{361}
+\indexentry {finite volume|hyperpage}{362}
+\indexentry {finite volume!mixed |hyperpage}{362}
+\indexentry {Delta@$\Delta $-admissible mesh|hyperpage}{364}
+\indexentry {hybrid mimetic mixed (HMM)|hyperpage}{364}
+\indexentry {heterogeneous medium|hyperpage}{364}
+\indexentry {SUSHI|hyperpage}{364}
+\indexentry {barycentric condensation|hyperpage}{365}
+\indexentry {condensation!barycentric|hyperpage}{365}
+\indexentry {GD-consistency!of specific schemes|hyperpage}{367}
+\indexentry {mimetic finite difference (MFD)!nodal|hyperpage}{371}
+\indexentry {mimetic finite difference (MFD)!nodal|hyperpage}{372}
+\indexentry {control of a GD by a polytopal toolbox!of specific schemes|hyperpage}{382}
+\indexentry {conformity defect!estimate|hyperpage}{384}
+\indexentry {consistency defect!estimate|hyperpage}{384}
+\indexentry {space size of a GD!of specific schemes|hyperpage}{384}
+\indexentry {finite volume!discrete duality (DDFV)|hyperpage}{384}
+\indexentry {finite volume!discrete duality --!CeVeFE|hyperpage}{386}
+\indexentry {gradient discretisation!abstract setting|hyperpage}{397}
+\indexentry {coercivity!definition|hyperpage}{398}
+\indexentry {limit-conformity|hyperpage}{398}
+\indexentry {limit-conformity|hyperpage}{398}
+\indexentry {regularity of the limit!abstract setting|hyperpage}{401}
+\indexentry {GD-consistency|hyperpage}{401}
+\indexentry {GD-consistency|hyperpage}{401}
+\indexentry {GD-consistency|hyperpage}{402}
+\indexentry {compactness!definition|hyperpage}{402}
+\indexentry {compactness!implies coercivity|hyperpage}{402}
+\indexentry {interpolant|hyperpage}{410}
+\indexentry {hybrid mimetic mixed (HMM)|hyperpage}{412}
+\indexentry {stability!interpolant|hyperpage}{413}
+\indexentry {interpolant|hyperpage}{413}
+\indexentry {interpolant|hyperpage}{414}
+\indexentry {stability!polytopal gradient|hyperpage}{415}
+\indexentry {polytopal!gradient|hyperpage}{415}
+\indexentry {discrete Stokes formula|hyperpage}{416}
+\indexentry {broken!space|hyperpage}{416}
+\indexentry {Sobolev!space!broken|hyperpage}{416}
+\indexentry {Sobolev!embedding|hyperpage}{418}
+\indexentry {Sobolev!embedding|hyperpage}{418}
+\indexentry {discrete Poincar\'e inequality|hyperpage}{421}
+\indexentry {Poincar\'e inequality|hyperindexformat{\see {discrete Poincar\'e inequality}}}{421}
+\indexentry {Rellich theorem|hyperpage}{422}
+\indexentry {Estimates on the translates|hyperpage}{422}
+\indexentry {density of smooth functions|hyperpage}{422}
+\indexentry {Sobolev!embedding|hyperpage}{431}
+\indexentry {interpolant|hyperpage}{435}
+\indexentry {Sobolev!embedding|hyperpage}{435}
+\indexentry {Sobolev!embedding|hyperpage}{437}
+\indexentry {Arzel\`a--Ascoli theorem|hyperpage}{440}
+\indexentry {equicontinuous|hyperpage}{440}
+\indexentry {compactly embedded sequence|hyperpage}{444}
+\indexentry {compactly--continuously embedded sequence|hyperpage}{445}
+\indexentry {Aubin--Simon theorem|hyperpage}{446}
+\indexentry {Arzel\`a--Ascoli theorem|hyperpage}{449}
+\indexentry {Arzel\`a--Ascoli theorem|hyperpage}{449}
+\indexentry {equicontinuous|hyperpage}{449}
+\indexentry {Arzel\`a--Ascoli theorem!discontinuous|hyperpage}{449}
+\indexentry {uniform-in-time! compactness|hyperpage}{450}
+\indexentry {uniform-in-time!$L^2(\O )$-weak convergence|hyperpage}{454}
+\indexentry {Sobolev!space|hyperpage}{457}
+\indexentry {Lebesgue spaces|hyperpage}{457}
+\indexentry {Sobolev!space|hyperpage}{458}
+\indexentry {H\"older inequalities|hyperpage}{458}
+\indexentry {Young inequality|hyperpage}{459}
+\indexentry {Jensen inequality|hyperpage}{460}
+\indexentry {power of sums inequality|hyperpage}{460}
+\indexentry {discrete integration-by-parts|hyperpage}{460}
+\indexentry {topological degree|hyperpage}{462}
+\indexentry {Brouwer fixed point theorem|hyperpage}{462}
+\indexentry {weak!derivative|hyperpage}{462}
+\indexentry {weak!derivative|hyperpage}{463}
+\indexentry {convergence!in the sense of distributions|hyperpage}{463}
+\indexentry {convergence!weak-strong|hyperpage}{464}
+\indexentry {weak-strong!convergence|hyperpage}{464}
+\indexentry {convergence!non-linear strong|hyperpage}{465}
+\indexentry {Caratheodory function|hyperpage}{465}
+\indexentry {Minty trick|hyperpage}{465}
+\indexentry {gradient scheme|hyperpage}{469}
+\indexentry {vertex approximate gradient (VAG)|hyperpage}{470}
+\indexentry {plapl@$p$-Laplace problem|hyperpage}{472}
+\indexentry {Stefan problem|hyperpage}{475}

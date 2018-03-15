@@ -1,0 +1,95 @@
+\begin{theindex}
+
+  \item Functional spaces
+    \subitem {$\protect C^{\infty }_c(\O )$}, \hyperpage{458}
+    \subitem {$\protect H_{\dive }(\O )$}, \hyperpage{20}, 
+		\hyperpage{458}
+    \subitem {$\protect H^{k}(\O )$}, \hyperpage{458}
+    \subitem {$\protect H^{k}_0(\O )$}, \hyperpage{458}
+    \subitem {$\protect H^1_\star (\O )$}, \hyperpage{77}
+    \subitem {$\protect L^p(\Omega )$}, \hyperpage{457}
+    \subitem {$\protect \Pfe _\ell $}, \hyperpage{225}
+    \subitem {$\protect \Wdivq (\O )$}, \hyperpage{20}, \hyperpage{458}
+    \subitem {$\protect \Wdivpprimepart (\O )$}, \hyperpage{71}
+    \subitem {$\protect \WdivpprimeGN (\O )$}, \hyperpage{90}
+    \subitem {$\protect W^{k,q}(\O )$}, \hyperpage{458}
+    \subitem {$\protect W^{k,q}_0(\O )$}, \hyperpage{458}
+    \subitem {$\protect \Wpgen $}, \hyperpage{97}
+
+  \indexspace
+
+  \item GD operators and indicators
+    \subitem {$\protect C_\disc $}, \hyperpage{18}
+    \subitem {$\protect \delta _{\disc }$}, \hyperpage{98}
+    \subitem {$\protect \gradDt $}, \hyperpage{98}
+    \subitem {$\protect \interp _\disc $}, \hyperpage{98}
+    \subitem {$\protect \Pi _\disc ^{ML}$}, \hyperpage{234}
+    \subitem {$\protect \PiDt $}, \hyperpage{98}
+    \subitem {$\protect C_\disc $}, \hyperpage{66}, \hyperpage{70}, 
+		\hyperpage{90}, \hyperpage{398}
+    \subitem {$\protect S_\disc $}, \hyperpage{19}, \hyperpage{59}, 
+		\hyperpage{66}, \hyperpage{86}, \hyperpage{90}, 
+		\hyperpage{401}
+    \subitem {$\protect W_\disc $}, \hyperpage{20}, \hyperpage{67}, 
+		\hyperpage{71}, \hyperpage{91}, \hyperpage{398}
+    \subitem {$\protect \trDt $}, \hyperpage{98}
+  \item GDM notions
+    \subitem {$\protect \bcdisc $}, \hyperpage{229}
+    \subitem {$\protect \bcI $}, \hyperpage{229}
+    \subitem {$\protect \disc _T$}, \hyperpage{98}
+    \subitem {$\protect \regbc (\bcdisc )$}, \hyperpage{229}
+    \subitem {$\protect \regLLE (\disc )$}, \hyperpage{223}
+    \subitem {$\protect \XDgen $}, \hyperpage{97}
+
+  \indexspace
+
+  \item Miscellaneous
+    \subitem {$\protect \mbox {$\Delta -$admissible mesh}$}, 
+		\hyperpage{x}
+    \subitem {$\protect v_{\theta }$}, \hyperpage{98}
+
+  \indexspace
+
+  \item Norms and semi-norms
+    \subitem {$\protect \norm {w}{BV(\R ^d)}$}, \hyperpage{418}
+    \subitem {$\protect \norm {\gr _K}{p}$}, \hyperpage{219}
+    \subitem {$\protect \norm {u}{L^p(\Omega )}$}, \hyperpage{458}
+    \subitem {$\protect \norm {\pr _K}{p}$}, \hyperpage{217}
+    \subitem {$\protect \norm {\bvarphi }{\Wdivq (\O )}$}, 
+		\hyperpage{458}
+    \subitem {$\protect \snorm {\cdot }{\polyd ,p}$}, \hyperpage{206}
+
+  \indexspace
+
+  \item Polytopal tools
+    \subitem {$\protect \dr K$}, \hyperpage{203}
+    \subitem {$\protect D_{K,\edge }$}, \hyperpage{204}
+    \subitem {$\protect \dcvedge $}, \hyperpage{204}
+    \subitem {$\protect D_{\edge }$}, \hyperpage{204}
+    \subitem {$\protect \edges $}, \hyperpage{203}
+    \subitem {$\protect \edgescv $}, \hyperpage{203}
+    \subitem {$\protect \eta _\polyd $}, \hyperpage{206}
+    \subitem {$\protect \grad _{\polyd }$}, \hyperpage{206}
+    \subitem {$\protect \sizemesh $}, \hyperpage{204}
+    \subitem {$\protect \kappa _\polyd $}, \hyperpage{207}
+    \subitem {$\protect \mesh $}, \hyperpage{203}
+    \subitem {$\protect \mcv $}, \hyperpage{203}
+    \subitem {$\protect \medge $}, \hyperpage{203}
+    \subitem {$\protect \mesh _\edge $}, \hyperpage{203}
+    \subitem {$\protect \Ncv $}, \hyperpage{203}
+    \subitem {$\protect \ncvedge $}, \hyperpage{203}
+    \subitem {$\protect \omega ^\nabla (\disc ,\polyd ,\emb )$}, 
+		\hyperpage{208}
+    \subitem {$\protect \omega ^{\Pi }(\disc ,\polyd ,\emb )$}, 
+		\hyperpage{208}
+    \subitem {$\protect \centers $}, \hyperpage{203}
+    \subitem {$\protect \Pi _{\polyd }$}, \hyperpage{206}
+    \subitem {$\protect \polyd $}, \hyperpage{205}
+    \subitem {$\protect \theta _\polyd $}, \hyperpage{206}
+    \subitem {$\protect \trrec _{\polyd }$}, \hyperpage{206}
+    \subitem {$\protect \xcv $}, \hyperpage{203}
+    \subitem {$\protect X_\polyd $}, \hyperpage{205}
+    \subitem {$\protect X_{\polyd ,0}$}, \hyperpage{205}
+    \subitem {$\protect \xedge $}, \hyperpage{204}
+
+\end{theindex}
