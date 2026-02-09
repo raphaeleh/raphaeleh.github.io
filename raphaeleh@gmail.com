@@ -71,8 +71,8 @@
             Institut de Mathématiques de Marseille (I2M)<br>
             Applied Analysis team. <br>
             <strong>Office:</strong><br>
-            CMI 39 rue Joliot Curie 13453 FRANCE<br>
-            Room 238<br>
+            Faculté des Sciences, Campus Saint Charles,  Marseille FRANCE<br>
+            <br>
             <hr>
         </div>
         <div class="col-md-4 text-center">
@@ -82,7 +82,8 @@
     <div class="row">
         <div class="col-md-10">
             <h5>Positions</h5>
-            <strong>1995-now </strong>  Professor, Université d'Aix-Marseille,   France.<br>
+            <strong>2025-now </strong>  Professor Emeritus, Université d'Aix-Marseille,
+			<strong>1995-2025 </strong>  Professor, Université d'Aix-Marseille,   France.<br>
 			<strong>1991-1995</strong> Assistant Professor, Université de Savoie, France.<br>
             <strong>1987-1990</strong> Research Fellow, Ecole Polytechnique Fédérale de Lausanne, Switzerland.<br>
             <strong>1986-1987</strong> Postdoctoral Researcher, IBM Research, New York, USA.<br>
@@ -110,7 +111,7 @@
     <div class="container">
         <p class="text-center">
 
-            Raphaèle Herbin 2021 |
+            Raphaèle Herbin 2026 |
             Powered by <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
         </p>
         <!-- <p class="text-muted">Place sticky footer content here.</p> -->
