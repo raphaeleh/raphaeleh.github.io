@@ -60,6 +60,18 @@
     </div>
 </nav>
 
+<h2>Publications</h2>
+
+<p>
+The up-to-date and complete list of publications (with BibTeX, DOI links, and co-authors)
+is maintained on the HAL open archive:
+</p>
+
+<p>
+<a href="https://cv.hal.science/raphaele-herbin">
+➡ View my HAL CV and publication list
+</a>
+</p>
 
   
 <div class="container">
